@@ -43,9 +43,7 @@ of this approach.
 
 The AGF is designed for customers who want to transform their IT organizations
 into strong partners with their businesses. New cloud customers who aren’t quite
-sure where to start on their transformational journey will benefit from the AGF
-- as well as existing cloud customers who want to improve their efficiency,
-governance and corporate confidence in the cloud.
+sure where to start on their transformational journey will benefit from the AGF as well as existing cloud customers who want to improve their efficiency, governance and corporate confidence in the cloud.
 
 ## What if I don’t use Azure – can this approach help me?
 
