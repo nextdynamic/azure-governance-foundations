@@ -1,27 +1,32 @@
 Enterprise Learning Plan
 ========================
 
-Customer Situation
-------------------
+Assessment and Gap Analysis
+---------------------------
 
-Describe the business goals. How will the learning and development support the
-business goals?
+The CCoE requires people, processes, and technology with the capabilities needed
+for the scope of this offering. Before committees can operate effectively, they
+must become subject matter experts in the Azure offerings that relate to the
+committee’s purview. The Partner will work with the customer to assess the skill
+level of the members of committees as well as the customer’s current Azure
+environment. While the Partner may act as a committee member in these groups it
+is of paramount importance that the customer be knowledgeable of the appropriate
+Azure offerings and act as their own agents in creating policies.
 
-Kroger is looking to transform the retail industry through a series of
-technologies created by Sunrise Technologies (Kroger’s commercial group). Kroger
-plans to license its proprietary retail technology to third parties, these
-include Edghe shelves, Food at Safe Temperatures (FAST) and Zooter cameras. The
-focus of this engagement is around an offering called “Retail as a Service”
-which includes a number of services like EDGE, LEAP and Scan, Bag and Go. As
-part of this strategy, Kroger needs to train different groups within the
-organization including Developers, IT Operations, Security, IT Architecture.
+Any training or workshops required to bring committee members up to the
+appropriate level of expertise will be included in the scope of work from the
+Partner. The level of effort necessary to bring the customer and their
+environment up to the needed functionality to support CCoE will be determined
+and added to offering by the Partner. These workshops can generally be delivered
+in parallel if needed in the interest of time since most of the topics will not
+include members of other committees.
 
 Skill Requirements
 ------------------
 
 Describe the skills required to meet the business goals.
 
-In order to accomplish their business goals, Kroger has a need to develop
+In order to accomplish their business goals, Contoso has a need to develop
 specific skills in Application Modernization (Containers, Functions, API
 Management, Application Insights) along with Cloud Infrastructure Fundamentals
 (Compute, Storage, Networking, Backup, Monitoring) for staff that have not yet

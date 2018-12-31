@@ -60,8 +60,9 @@ The cloud operating model
 
 S
 
-People, process and tech
-------------------------
+![](media/79199795796a8fc3a911693a3c1df51b.png)
+
+### People, process and tech
 
 S
 
@@ -109,6 +110,10 @@ Cloud first, cloud forward
 ==========================
 
 S
+
+![A yellow sign on a pole Description generated with very high confidence](media/6e91dd449fb5f63c91ce45795420901c.png)
+
+![](media/b728c00fe4137836a58d7514e266713f.png)
 
 What is a ccoe?
 ===============
@@ -161,15 +166,12 @@ The CCoE will be initially populated by both the Partner and customer resources
 experience to bear with customers to build the CCoE in order to implement,
 manage, and operate the Azure platform.
 
-![](media/7dfde3730b5cc5b48e5e797786a80fd7.png)
+![](media/27867091b9d19cd772c1714e035a03f3.png)
 
 Once the CCoE has grown and matured the need for external guidance is be reduced
 and the customer alone should populate the CCoE. This offering is a hands-on
 approach where the customer achieves cultural change, adopt a new way of working
 and embed use of cloud-native technology and principles.
-
-Devops
-======
 
 S
 
