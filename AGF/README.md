@@ -7,8 +7,8 @@ documents:
 [100-AGF
 Introduction](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/100-AGF%20Introduction.md)
 
-The introduction contains an executive summary, describes the need for
-governance and a description of a CCoE and a history of governance.
+>   The introduction contains an executive summary, describes the need for
+>   governance and a description of a CCoE and a history of governance.
 
 [101-Building-a-Cloud-Center-of-Excellence](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/101-Building-a-Cloud-Center-of-Excellence.md)
 
