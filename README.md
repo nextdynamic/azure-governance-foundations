@@ -30,7 +30,7 @@ The goal of the AGF is to help customers:
 
 -   Increase TTM for workloads deployed in Azure.
 
-Intended audience – is this guide for me?
+## Intended audience – is this guide for me?
 =========================================
 
 The Azure Governance Foundation is for any customer who wants to implement a
@@ -65,7 +65,7 @@ networking and cloud-native tooling are focused solely on the Microsoft Cloud.
 Inasmuch as there is parity across these features and functions in other cloud
 providers, the information in this guide may be applied to any cloud.
 
-What about other approaches?
+## What about other approaches?
 ============================
 
 The AGF is not the only governance approach used by successful customers, but it
@@ -74,7 +74,7 @@ approach as a reasonable and appropriate one, especially for customers looking
 for a place to start. There are other governance approaches that achieve similar
 outcomes.
 
-Do I need to follow the AGF to the letter?
+## Do I need to follow the AGF to the letter?
 ==========================================
 
 No. Businesses differ wildly in their organizational structures, cultures and
