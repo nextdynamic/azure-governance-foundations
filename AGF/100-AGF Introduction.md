@@ -1,5 +1,5 @@
-Building a Cloud Center of Excellence
-=====================================
+Azure Governance Foundations Introduction
+=========================================
 
 The need for governance
 -----------------------
