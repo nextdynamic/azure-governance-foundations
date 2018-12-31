@@ -5,9 +5,6 @@ creating a Cloud Center of Excellence (CCoE) team. The purpose of this guidance
 is to share the approach and insights of customers who are successfully using
 similar governing bodies to manage their Azure environments.
 
-The AGF is designed to provide all the necessary information for either new or
-existing Azure customers to create a
-
 The goal of the AGF is to help customers:
 
 -   Transform the IT organization into a true partner with the business
