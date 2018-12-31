@@ -1,6 +1,8 @@
 Azure Governance Foundations Introduction
 =========================================
 
+1
+
 The need for governance
 -----------------------
 
