@@ -1,13 +1,3 @@
-Do I need to follow the AGF to the letter?
-==========================================
-
-No. Businesses differ wildly in their organizational structures, cultures and
-approaches. It is important to remember that the guidance provided by the AGF is
-just that – *guidance*. Your organization may outsource some functions or have
-grouped teams along different domains historically. That’s okay. The AGF will
-highlight the places where there is flexibility in the model so that you can
-adapt your implementation appropriately.
-
 Background -rationale
 =====================
 
@@ -144,6 +134,12 @@ S
 
 ![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
 
+A picture containing text, map Description automatically generated
+
+A picture containing text, map Description automatically generated
+
+A picture containing text, map Description automatically generated
+
 ### Do I need a ccoe?
 
 This CCoE offering is where Partners will help customers setup and
@@ -210,3 +206,63 @@ People, process and tech
 S
 
 ases, the partner can be seated on the committee as a purely advisory role.
+
+Executive sponsorship
+=====================
+
+1
+
+Governance approach general formation
+=====================================
+
+1
+
+Membership
+==========
+
+2
+
+Commitment and expectations
+===========================
+
+2
+
+Charter
+=======
+
+Committee interaction
+=====================
+
+A
+
+Azure Policy
+============
+
+A
+
+Azure Blueprints
+================
+
+A
+
+Workloads
+=========
+
+A
+
+Where do I go from here?
+========================
+
+Governance is crucial to the success of Azure. This article targets the
+technical implementation of an enterprise scaffold but only touches on the
+broader process and relationships between the components. Policy governance
+flows from the top down and is determined by what the business wants to achieve.
+Naturally, the creation of a governance model for Azure includes representatives
+from IT, but more importantly it should have strong representation from business
+group leaders, and security and risk management. In the end, an enterprise
+scaffold is about mitigating business risk to facilitate an organization's
+mission and objectives
+
+Now that you have learned about subscription governance, it's time to see these
+recommendations in practice. See [Examples of implementing Azure subscription
+governance](https://github.com/rdendtler/architecture-center/blob/eca/scaffold-v2/docs/cloud-adoption/appendix/azure-scaffold-examples.md).
