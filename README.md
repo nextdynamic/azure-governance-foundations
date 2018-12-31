@@ -1,5 +1,5 @@
 # AzureGovernanceFoundations
-This repo provides an example framework for how you can govern Azure resources.
+This repository provides an example framework for how you can govern Azure resources.
 
 
 ## Contributing
