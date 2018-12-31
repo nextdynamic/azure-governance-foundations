@@ -4,7 +4,12 @@ Using these resources
 The Azure Governance Foundation (AGF) repository contains the following
 documents:
 
-[100-Building-a-Cloud-Center-of-Excellence](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/100-Cloud-Center-of-Excellence.md)
+100-AGF Introduction
+
+The introduction contains an executive summary, describes the need for
+governance and a description of a CCoE and a history of governance.
+
+[101-Building-a-Cloud-Center-of-Excellence](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/101-Building-a-Cloud-Center-of-Excellence.md)
 
 >   This document describes the structure, responsibilities, and activities of
 >   the Cloud Center of Excellence, including its committees. Generally
@@ -12,7 +17,7 @@ documents:
 >   continue on to the documents describing the committees in which they may
 >   hold membership.
 
-[101-Enterprise-Learning-Plan](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/101-Enterprise-Learning-Plan.md)
+[102-Enterprise-Learning-Plan](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/10https:/github.com/gosson/azure-governance-foundations/blob/master/AGF/102https:/github.com/gosson/azure-governance-foundations/blob/master/AGF/102-Enterprise-Learning-Plan.md-Enterprise-Learning-Plan.md2-Enterprise-Learning-Plan.md)
 
 >   This document provides a sample enterprise learning plan. This plan lists
 >   training resources for different roles with respect to the cloud journey.
