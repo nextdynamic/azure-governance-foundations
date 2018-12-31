@@ -69,15 +69,6 @@ approach as a reasonable and appropriate one, especially for customers looking
 for a place to start. There are other governance approaches that achieve similar
 outcomes.
 
-## Do I need to follow the AGF to the letter?
-
-No. Businesses differ wildly in their organizational structures, cultures and
-approaches. It is important to remember that the guidance provided by the AGF is
-just that – *guidance*. Your organization may outsource some functions or have
-grouped teams along different domains historically. That’s okay. The AGF will
-highlight the places where there is flexibility in the model so that you can
-adapt your implementation appropriately.
-
 
 ## Contributing
 
