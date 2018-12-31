@@ -1,16 +1,22 @@
-Background -rationale
-=====================
+Building a Cloud Center of Excellence
+=====================================
+
+The need for Governance
+-----------------------
 
 When moving to a public cloud, customers must address the topic of governance
 early to ensure the successful use of the cloud within the enterprise.
 Unfortunately, the time and bureaucracy of creating a comprehensive governance
 system means some business groups go directly to providers without involving
-enterprise IT. This approach can leave the enterprise open to compromise if the
-resources are not properly managed. The characteristics of the public cloud -
-agility, flexibility, and consumption-based pricing - are important to business
-groups that need to quickly meet the demands of customers (both internal and
-external). Nonetheless enterprise IT needs to ensure that data and systems are
-effectively protected.
+enterprise IT.
+
+This approach can leave the enterprise open to compromise if the resources are
+not properly managed.
+
+The characteristics of the public cloud - agility, flexibility, and
+consumption-based pricing - are important to business groups that need to
+quickly meet the demands of customers (both internal and external). Nonetheless
+enterprise IT needs to ensure that data and systems are effectively protected.
 
 One approach that successful customers have implemented is the creation of a
 Cloud Center of Excellence (CCoE). The CCoE is a modern IT operational model
@@ -23,8 +29,7 @@ The CCoE needs a solid Azure cloud and DevOps foundation (people, processes, and
 technology). Partner will conduct a gap analysis to evaluate the level of
 remediation needed to develop a functional CCoE.
 
-Executive Summary
-=================
+### Executive Summary
 
 The CCoE is an evolution of the traditional, legacy IT model operated on
 premises and in customer own datacenters. While the traditional IT model may
@@ -133,10 +138,6 @@ What is a ccoe?
 S
 
 ![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
-
-A picture containing text, map Description automatically generated
-
-A picture containing text, map Description automatically generated
 
 A picture containing text, map Description automatically generated
 

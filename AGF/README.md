@@ -4,7 +4,7 @@ Using these resources
 The Azure Governance Foundation (AGF) repository contains the following
 documents:
 
-**100-Cloud-Center-of-Excellence.md**
+[100-Building-a-Cloud-Center-of-Excellence](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/100-Cloud-Center-of-Excellence.md)
 
 >   This document describes the structure, responsibilities, and activities of
 >   the Cloud Center of Excellence, including its committees. Generally
@@ -12,50 +12,50 @@ documents:
 >   continue on to the documents describing the committees in which they may
 >   hold membership.
 
-**101-Enterprise-Learning-Plan.md**
+[101-Enterprise-Learning-Plan](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/101-Enterprise-Learning-Plan.md)
 
 >   This document provides a sample enterprise learning plan. This plan lists
 >   training resources for different roles with respect to the cloud journey.
 >   This plan can be customized for your organization and should align to any
 >   skill gaps identified by committee members.
 
-**200-Platform-Governance-Committee.md**
+[200-Platform-Governance-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/200-Platform-Governance-Committee.md)
 
 >   Describes the roles and responsibilities of the Platform Governance
 >   Committee. It defines some of the technical areas of responsibility along
 >   with hyperlinks to further content.
 
-**201-Security-Committee.md**
+[201-Security-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/201-Security-Committee.md)
 
 >   Describes the roles and responsibilities of the Security Committee. It
 >   defines some of the technical areas of responsibility along with hyperlinks
 >   to further content.
 
-**202-Monitoring-Committee.md**
+[202-Monitoring-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/202-Monitoring-Committee.md)
 
 >   Describes the roles and responsibilities of the Monitoring Committee. It
 >   defines some of the technical areas of responsibility along with hyperlinks
 >   to further content.
 
-**203-Architecture-Committee.md**
+[203-Architecture-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/203-Architecture-Committee.md)
 
 >   Describes the roles and responsibilities of the Architecture Committee. It
 >   defines some of the technical areas of responsibility along with hyperlinks
 >   to further content.
 
-**204-Product-Catalog-Committee.md**
+[204-Product-Catalog-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/204-Product-Catalog-Committee.md)
 
 >   Describes the roles and responsibilities of the Product Catalog Committee.
 >   It defines some of the technical areas of responsibility along with
 >   hyperlinks to further content.
 
-**205-Automation-Committee.md**
+[205-Automation-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/205-Automation-Committee.md)
 
 >   Describes the roles and responsibilities of the Automation Committee. It
 >   defines some of the technical areas of responsibility along with hyperlinks
 >   to further content.
 
-**900-FAQ**
+[900-FAQ](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/900-FAQ.md)
 
 >   A list of frequently asked questions about CCoEs and the Azure Governance
 >   Framework.

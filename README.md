@@ -1,11 +1,11 @@
 Azure Governance Foundations
 ============================
 
-The Azure Governance Foundation (AGF) is designed to provide Microsoft customers
-with clear guidance on how they can create a well-managed Azure environment by
-creating a Cloud Center of Excellence (CCoE) team. The purpose of this guidance
-is to share the approach and insights of customers who are successfully using
-similar governing bodies to manage their Azure environments.
+The Azure Governance Foundation (AGF) is designed to provide clear guidance on
+how to create a well-managed Azure environment by creating a Cloud Center of
+Excellence (CCoE) team. The purpose of this guidance is to share the approach
+and insights of customers who are successfully using similar governing bodies to
+manage their Azure environments.
 
 The goal of the AGF is to help customers:
 
@@ -29,11 +29,11 @@ The goal of the AGF is to help customers:
 
 -   Increase TTM for workloads deployed in Azure.
 
-Intended audience – is this guide for me?
------------------------------------------
+Is AGF for me?
+--------------
 
-The Azure Governance Foundation is for any customer who wants to implement a
-tested approach to creating a well-managed Azure environment. AGF is best
+The Azure Governance Foundation is for any organization that wants to implement
+a tested approach to creating a well-managed Azure environment. AGF is best
 thought of as an extension to the [Microsoft Cloud Operating
 Model](https://azure.microsoft.com/en-us/resources/cloud-operating-model---full-document/)
 which covers the people, process and technology aspects of cloud adoption. If
@@ -50,19 +50,19 @@ governance and corporate confidence in the cloud.
 What if I don’t use Azure – can this approach help me?
 ------------------------------------------------------
 
-Yes, it can. The approach described in this repository is not specific to any
-one cloud. In many ways the approach to management and governance described here
-is neither new or profoundly revolutionary. It is simply a common-sense approach
-to managing assets in a cloud-first world. This approach can be used in AWS or
-GCP as well as in Azure. Good governance and a well-managed environment are not
-the domain of any one cloud provider.
+Yes, it can. The AGF approach is not specific to any one cloud. In many ways,
+the approach to management and governance described here is neither new nor
+profoundly revolutionary. It is simply a common-sense approach to managing
+assets in a cloud-first world. This approach can be used in AWS or GCP as well
+as in Azure. Good governance and a well-managed environment are not the domain
+of any one cloud provider.
 
 That said, much of the approach described here will be tactical and specific to
 Azure. The use of Azure Policies, Management Groups and Azure Blueprints are
-certainly limited to Azure. Details of how to implement aspects like identity,
-networking and cloud-native tooling are focused solely on the Microsoft Cloud.
-Inasmuch as there is parity across these features and functions in other cloud
-providers, the information in this guide may be applied to any cloud.
+limited to Azure. Details of how to implement aspects like identity, networking
+and cloud-native tooling are focused solely on the Microsoft Cloud. Inasmuch as
+there is parity across these features and functions in other cloud providers,
+the information in this guide may be applied to any cloud.
 
 What about other approaches?
 ----------------------------
