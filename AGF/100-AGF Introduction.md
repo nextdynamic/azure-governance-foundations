@@ -113,6 +113,8 @@ S
 
 ![A yellow sign on a pole Description generated with very high confidence](media/6e91dd449fb5f63c91ce45795420901c.png)
 
+A yellow sign on a pole Description generated with very high confidence
+
 ![](media/b728c00fe4137836a58d7514e266713f.png)
 
 What is a ccoe?
@@ -123,6 +125,8 @@ S
 ![](media/b501c641498a7bfe218cdf6b895e946e.png)
 
 ![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
+
+A picture containing text, map Description automatically generated
 
 ### Do I need a ccoe?
 
