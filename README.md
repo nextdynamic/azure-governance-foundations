@@ -1,5 +1,5 @@
-# AzureGovernanceFoundations
-This repository provides an example framework for how you can govern Azure resources.
+# Azure Governance Foundations
+This repository provides an example framework for how you can govern Azure resources using a Cloud Center of Excellence.
 
 
 ## Contributing
