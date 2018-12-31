@@ -1,35 +1,74 @@
 Building a Cloud Center of Excellence
 =====================================
 
-The need for Governance
+The need for governance
 -----------------------
 
-When moving to a public cloud, customers must address the topic of governance
-early to ensure the successful use of the cloud within the enterprise.
-Unfortunately, the time and bureaucracy of creating a comprehensive governance
-system means some business groups go directly to providers without involving
-enterprise IT.
-
-This approach can leave the enterprise open to compromise if the resources are
-not properly managed.
-
 The characteristics of the public cloud - agility, flexibility, and
-consumption-based pricing - are important to business groups that need to
-quickly meet the demands of customers (both internal and external). Nonetheless
-enterprise IT needs to ensure that data and systems are effectively protected.
+consumption-based pricing - are of paramount importance to organizations that
+need to move quickly. Historically enterprise IT, while trying to ensure that
+systems are effectively governed and secured, were often seen as slow to react
+and in the most extreme cases as draconian in their approach.
+
+This gave rise to the notion (in some cases a misconception) that the time and
+effort of creating a comprehensive governance system and its accompanying
+bureaucracy would slow the business down to the point where it would negate any
+gains realized from using the cloud. As such, some groups within businesses
+ended up going directly to cloud providers without involving enterprise IT. The
+practice was in fact so popular it was given the name “Shadow IT” by the
+industry.
+
+When we look at enterprises who have successfully moved to the cloud, we find
+that they typically address the topic of governance early to ensure the
+effective use of the cloud within the enterprise. They have a general approach
+of building and securing their cloud before anyone can use it. A common analogy
+used among these organizations is “building the house” before letting anyone
+occupy it.
+
+To follow the analogy of a house being built (where a well-governed cloud is the
+outcome) we need to make use of scaffolding to secure our structures. The
+scaffold provides the general outline and boundaries for future additions to be
+mounted. An enterprise cloud scaffold is much the same: a set of flexible
+controls and cloud capabilities that provide structure to the environment, sets
+perimeters and provides and anchors for services built on the public cloud.
+Scaffolding provides a foundation to create and attach new services keeping
+speed of delivery in mind.
+
+The enterprise scaffold is intended to be the foundation of cloud environments.
+It enables administrators to ensure workloads meet the minimum governance
+requirements of an organization while allowing business groups and developers to
+quickly meeting their own goals.
+
+Contrary to the opinions that led to the rise of Shadow IT, our experience shows
+that foundational governance efforts greatly speed, rather than impede, cloud
+growth.
+
+How an enterprise implements this scaffolding and governance varies but the
+purpose of the Azure Governance Foundations (AGF) is to provide a concrete
+approach to this effort.
 
 One approach that successful customers have implemented is the creation of a
-Cloud Center of Excellence (CCoE). The CCoE is a modern IT operational model
-that that follows an agile approach to capturing business requirements to
-partner with the business. The goal of this offering is to work with customers
-to create a functional CCoE that provided agility, governance and security to
-the business.
+Cloud Center of Excellence (CCoE). The CCoE is comprised of teams of very
+specialized personnel who focus on cloud governance and management. The idea of
+a CCoE is one of a modern IT operational model that that follows an agile
+approach to capturing business requirements to partner with the business. The
+goal of the AGF is to help customers create a functional CCoE that provided
+agility, governance and security to the business.
 
-The CCoE needs a solid Azure cloud and DevOps foundation (people, processes, and
-technology). Partner will conduct a gap analysis to evaluate the level of
-remediation needed to develop a functional CCoE.
+The cloud operating model
+=========================
 
-### Executive Summary
+S
+
+People, process and tech
+------------------------
+
+S
+
+ases, the partner can be seated on the committee as a purely advisory role.
+
+Executive Summary of a Cloud Center of Excellence
+-------------------------------------------------
 
 The CCoE is an evolution of the traditional, legacy IT model operated on
 premises and in customer own datacenters. While the traditional IT model may
@@ -61,71 +100,10 @@ resource usage for the business. Microsoft Azure provides a multitude of
 services and capabilities that enterprises assemble like building blocks to
 address a wide array of workloads and applications.
 
-Deciding to use Microsoft Azure is only the first step to achieving the benefit
-of the cloud. The second step is understanding how the enterprise can
-effectively use Azure and identify the baseline capabilities that need to be in
-place to address questions like:
-
--   "I'm concerned about data sovereignty; how can I ensure that my data and
-    systems meet our regulatory requirements?"
-
--   "How do I know what every resource is supporting so I can account for it and
-    bill it back accurately?"
-
--   "I want to make sure that everything we deploy or do in the public cloud
-    starts with the mindset of security first, how do I help facilitate that?"
-
-The prospect of an empty subscription with no guard rails is daunting. This
-blank space can hamper your move to Azure.
-
-This article provides a starting point for technical professionals to address
-the need for governance and balance it with the need for agility. It introduces
-the concept of an enterprise scaffold that guides organizations in implementing
-and managing their Azure environments in a secure way. It provides the framework
-to develop effective and efficient controls.
-
-Need for governance
--------------------
-
-When moving to Azure, you must address the topic of governance early to ensure
-the successful use of the cloud within the enterprise. Unfortunately, the time
-and bureaucracy of creating a comprehensive governance system means some
-business groups go directly to providers without involving enterprise IT. This
-approach can leave the enterprise open to compromise if the resources are not
-properly managed. The characteristics of the public cloud - agility,
-flexibility, and consumption-based pricing - are important to business groups
-that need to quickly meet the demands of customers (both internal and external).
-But, enterprise IT needs to ensure that data and systems are effectively
-protected.
-
-When creating a building, scaffolding is used to create the basis of a
-structure. The scaffold guides the general outline and provides anchor points
-for more permanent systems to be mounted. An enterprise scaffold is the same: a
-set of flexible controls and Azure capabilities that provide structure to the
-environment, and anchors for services built on the public cloud. It provides the
-builders (IT and business groups) a foundation to create and attach new services
-keeping speed of delivery in mind.
-
-The scaffold is based on practices we have gathered from many engagements with
-clients of various sizes. Those clients range from small organizations
-developing solutions in the cloud to large multi-national enterprises and
-independent software vendors who are migrating workloads and developing
-cloud-native solutions. The enterprise scaffold is "purpose-built" to be
-flexible to support both traditional IT workloads and agile workloads; such as,
-developers creating software-as-a-service (SaaS) applications based on Azure
-platform capabilities.
-
-The enterprise scaffold is intended to be the foundation of each new
-subscription within Azure. It enables administrators to ensure workloads meet
-the minimum governance requirements of an organization without preventing
-business groups and developers from quickly meeting their own goals. Our
-experience shows that this greatly speeds, rather than impedes, public cloud
-growth.
-
 History
 =======
 
-S
+![](media/1e091229a96d0f101a8fc6338dfb6e59.png)
 
 Cloud first, cloud forward
 ==========================
@@ -137,9 +115,9 @@ What is a ccoe?
 
 S
 
-![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
+![](media/b501c641498a7bfe218cdf6b895e946e.png)
 
-A picture containing text, map Description automatically generated
+![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
 
 ### Do I need a ccoe?
 
@@ -165,6 +143,8 @@ offering is to create a CCoE in a way that minimized architectural and
 organizational debt for those customers who continue on to take the full
 journey.
 
+![](media/5c066e1ea93077708f9a02a92d464623.png)
+
 This model provides a structure for customers to implement, manage, and operate
 their Azure platform. The CCoE uses agile DevOps principles combined with
 cloud-native service management and security controls to help drive business
@@ -181,6 +161,8 @@ The CCoE will be initially populated by both the Partner and customer resources
 experience to bear with customers to build the CCoE in order to implement,
 manage, and operate the Azure platform.
 
+![](media/7dfde3730b5cc5b48e5e797786a80fd7.png)
+
 Once the CCoE has grown and matured the need for external guidance is be reduced
 and the customer alone should populate the CCoE. This offering is a hands-on
 approach where the customer achieves cultural change, adopt a new way of working
@@ -195,75 +177,3 @@ Agile
 =====
 
 S
-
-The cloud operating model
-=========================
-
-S
-
-People, process and tech
-------------------------
-
-S
-
-ases, the partner can be seated on the committee as a purely advisory role.
-
-Executive sponsorship
-=====================
-
-1
-
-Governance approach general formation
-=====================================
-
-1
-
-Membership
-==========
-
-2
-
-Commitment and expectations
-===========================
-
-2
-
-Charter
-=======
-
-Committee interaction
-=====================
-
-A
-
-Azure Policy
-============
-
-A
-
-Azure Blueprints
-================
-
-A
-
-Workloads
-=========
-
-A
-
-Where do I go from here?
-========================
-
-Governance is crucial to the success of Azure. This article targets the
-technical implementation of an enterprise scaffold but only touches on the
-broader process and relationships between the components. Policy governance
-flows from the top down and is determined by what the business wants to achieve.
-Naturally, the creation of a governance model for Azure includes representatives
-from IT, but more importantly it should have strong representation from business
-group leaders, and security and risk management. In the end, an enterprise
-scaffold is about mitigating business risk to facilitate an organization's
-mission and objectives
-
-Now that you have learned about subscription governance, it's time to see these
-recommendations in practice. See [Examples of implementing Azure subscription
-governance](https://github.com/rdendtler/architecture-center/blob/eca/scaffold-v2/docs/cloud-adoption/appendix/azure-scaffold-examples.md).
