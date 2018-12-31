@@ -1,4 +1,6 @@
-# Azure Governance Foundations
+Azure Governance Foundations
+============================
+
 The Azure Governance Foundation (AGF) is designed to provide Microsoft customers
 with clear guidance on how they can create a well-managed Azure environment by
 creating a Cloud Center of Excellence (CCoE) team. The purpose of this guidance
@@ -27,7 +29,8 @@ The goal of the AGF is to help customers:
 
 -   Increase TTM for workloads deployed in Azure.
 
-## Intended audience – is this guide for me?
+Intended audience – is this guide for me?
+-----------------------------------------
 
 The Azure Governance Foundation is for any customer who wants to implement a
 tested approach to creating a well-managed Azure environment. AGF is best
@@ -40,9 +43,12 @@ of this approach.
 
 The AGF is designed for customers who want to transform their IT organizations
 into strong partners with their businesses. New cloud customers who aren’t quite
-sure where to start on their transformational journey will benefit from the AGF as well as existing cloud customers who want to improve their efficiency, governance and corporate confidence in the cloud.
+sure where to start on their transformational journey will benefit from the AGF
+as well as existing cloud customers who want to improve their efficiency,
+governance and corporate confidence in the cloud.
 
-## What if I don’t use Azure – can this approach help me?
+What if I don’t use Azure – can this approach help me?
+------------------------------------------------------
 
 Yes, it can. The approach described in this repository is not specific to any
 one cloud. In many ways the approach to management and governance described here
@@ -58,7 +64,8 @@ networking and cloud-native tooling are focused solely on the Microsoft Cloud.
 Inasmuch as there is parity across these features and functions in other cloud
 providers, the information in this guide may be applied to any cloud.
 
-## What about other approaches?
+What about other approaches?
+----------------------------
 
 The AGF is not the only governance approach used by successful customers, but it
 is *one* approach. The purpose of this guidance is highlighting the AGF and CCoE
@@ -66,11 +73,17 @@ approach as a reasonable and appropriate one, especially for customers looking
 for a place to start. There are other governance approaches that achieve similar
 outcomes.
 
+Contributing
+------------
 
-## Contributing
+To contribute and get started, please visit our [contribution
+guide](contribution-guide/readme.md).
 
-To contribute and get started, please visit our [**contribution guide**](./1-contribution-guide/README.md#contribution-guide).
+Code of Conduct
+---------------
 
-## Code of Conduct
-
-*This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.*
+*This project has adopted the* [Microsoft Open Source Code of
+Conduct](https://opensource.microsoft.com/codeofconduct/)*. For more information
+see the* [Code of Conduct
+FAQ](https://opensource.microsoft.com/codeofconduct/faq/) *or contact*
+<opencode@microsoft.com> *with any additional questions or comments.*
