@@ -19,40 +19,6 @@ Intended audience – is this guide for me
 ========================================
 s
 
-**1. Microsoft Learn -**
-[www.microsoft.com/learn](http://www.microsoft.com/learn)
-
--   Step-by-Step Learning
-
-    -   Guided microlearning by product/service, difficulty, job role, etc
-
-    -   Videos, tutorials, and hands-on learning
-
-    -   Role-based learning paths to prepare for certification
-
--   Gamification & Achievements
-
--   Unlock achievements
-
--   Task-based achievements to reward your hands-on skills
-
--   Customizable user profile
-
-    -   Friction-free Learning
-
-    -   All learning content is free
-
-        -   Free trial accounts to easily test-drive products and services
-
-        -   Content available in the spoken language and programming language of
-            my choice
-
-        -   No-install, browser-based Interactive coding/scripting environments
-
-        -   All scripts and code samples available for download
-
-        -   **2. Instructor-led –** Azure Fundamentals (coming soon)
-
 
 ## Contributing
 
