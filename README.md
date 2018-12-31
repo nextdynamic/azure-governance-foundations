@@ -6,8 +6,6 @@ This repo provides an example framework for how you can govern Azure resources.
 
 To contribute and get started, please visit our [**contribution guide**](./1-contribution-guide/README.md#contribution-guide).
 
-## Requesting Policy Aliases
-
-To request a new alias, please open a new issue following the instructions [**here**](./1-contribution-guide/request-alias.md)
+## Code of Conduct
 
 *This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.*
