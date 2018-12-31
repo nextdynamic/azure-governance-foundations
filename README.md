@@ -48,8 +48,7 @@ sure where to start on their transformational journey will benefit from the AGF
 - as well as existing cloud customers who want to improve their efficiency,
 governance and corporate confidence in the cloud.
 
-What if I don’t use Azure – can this approach help me?
-======================================================
+## What if I don’t use Azure – can this approach help me?
 
 Yes, it can. The approach described in this repository is not specific to any
 one cloud. In many ways the approach to management and governance described here
