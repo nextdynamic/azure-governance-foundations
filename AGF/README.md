@@ -1,76 +1,61 @@
-# Azure Governance Foundations
-The Azure Governance Foundation (AGF) is designed to provide Microsoft customers
-with clear guidance on how they can create a well-managed Azure environment by
-creating a Cloud Center of Excellence (CCoE) team. The purpose of this guidance
-is to share the approach and insights of customers who are successfully using
-similar governing bodies to manage their Azure environments.
+Using these resources
+=====================
 
-The goal of the AGF is to help customers:
+The Azure Governance Foundation (AGF) repository contains the following
+documents:
 
--   Transform the IT organization into a true partner with the business
+**100-Cloud-Center-of-Excellence.md**
 
--   Create a functional Azure governance team (CCoE)
+>   This document describes the structure, responsibilities, and activities of
+>   the Cloud Center of Excellence, including its committees. Generally
+>   speaking, anyone using the AGF should read this document first and then
+>   continue on to the documents describing the committees in which they may
+>   hold membership.
 
--   Well-managed Azure platform aligned with corporate governance standards
+**101-Enterprise-Learning-Plan.md**
 
--   Creation of certified catalog of cloud products
+>   This document provides a sample enterprise learning plan. This plan lists
+>   training resources for different roles with respect to the cloud journey.
+>   This plan can be customized for your organization and should align to any
+>   skill gaps identified by committee members.
 
--   Increased corporate confidence in Azure
+**200-Platform-Governance-Committee.md**
 
--   Follow and agile approach in governing Azure
+>   Describes the roles and responsibilities of the Platform Governance
+>   Committee. It defines some of the technical areas of responsibility along
+>   with hyperlinks to further content.
 
--   Define policies across disciplines and implement those in the form of Azure
-    Policies and other cloud-native mechanisms.
+**201-Security-Committee.md**
 
--   Design a well-governed and managed Azure environment ready to accept
-    production workloads.
+>   Describes the roles and responsibilities of the Security Committee. It
+>   defines some of the technical areas of responsibility along with hyperlinks
+>   to further content.
 
--   Increase TTM for workloads deployed in Azure.
+**202-Monitoring-Committee.md**
 
-## Intended audience – is this guide for me?
+>   Describes the roles and responsibilities of the Monitoring Committee. It
+>   defines some of the technical areas of responsibility along with hyperlinks
+>   to further content.
 
-The Azure Governance Foundation is for any customer who wants to implement a
-tested approach to creating a well-managed Azure environment. AGF is best
-thought of as an extension to the [Microsoft Cloud Operating
-Model](https://azure.microsoft.com/en-us/resources/cloud-operating-model---full-document/)
-which covers the people, process and technology aspects of cloud adoption. If
-you have not read the Cloud Operating Model, you should begin there and then
-return to the AGF if you need deeper guidance on the people and process aspects
-of this approach.
+**203-Architecture-Committee.md**
 
-The AGF is designed for customers who want to transform their IT organizations
-into strong partners with their businesses. New cloud customers who aren’t quite
-sure where to start on their transformational journey will benefit from the AGF as well as existing cloud customers who want to improve their efficiency, governance and corporate confidence in the cloud.
+>   Describes the roles and responsibilities of the Architecture Committee. It
+>   defines some of the technical areas of responsibility along with hyperlinks
+>   to further content.
 
-## What if I don’t use Azure – can this approach help me?
+**204-Product-Catalog-Committee.md**
 
-Yes, it can. The approach described in this repository is not specific to any
-one cloud. In many ways the approach to management and governance described here
-is neither new or profoundly revolutionary. It is simply a common-sense approach
-to managing assets in a cloud-first world. This approach can be used in AWS or
-GCP as well as in Azure. Good governance and a well-managed environment are not
-the domain of any one cloud provider.
+>   Describes the roles and responsibilities of the Product Catalog Committee.
+>   It defines some of the technical areas of responsibility along with
+>   hyperlinks to further content.
 
-That said, much of the approach described here will be tactical and specific to
-Azure. The use of Azure Policies, Management Groups and Azure Blueprints are
-certainly limited to Azure. Details of how to implement aspects like identity,
-networking and cloud-native tooling are focused solely on the Microsoft Cloud.
-Inasmuch as there is parity across these features and functions in other cloud
-providers, the information in this guide may be applied to any cloud.
+**205-Automation-Committee.md**
 
-## What about other approaches?
+>   Describes the roles and responsibilities of the Automation Committee. It
+>   defines some of the technical areas of responsibility along with hyperlinks
+>   to further content.
 
-The AGF is not the only governance approach used by successful customers, but it
-is *one* approach. The purpose of this guidance is highlighting the AGF and CCoE
-approach as a reasonable and appropriate one, especially for customers looking
-for a place to start. There are other governance approaches that achieve similar
-outcomes.
+**900-FAQ**
 
-
-## Contributing
-
-To contribute and get started, please visit our [**contribution guide**](./1-contribution-guide/README.md#contribution-guide).
-
-## Code of Conduct
-
-*This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/). For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.*
+>   A list of frequently asked questions about CCoEs and the Azure Governance
+>   Framework.
