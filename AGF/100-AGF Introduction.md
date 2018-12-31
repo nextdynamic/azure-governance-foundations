@@ -4,7 +4,7 @@ Azure Governance Foundations Introduction
 Contents:
 ---------
 
--   *The need for governance*
+-   [The need for governance](#the-need-for-governance)
 
 -   [The cloud operating model](#the-cloud-operating-model)
 
