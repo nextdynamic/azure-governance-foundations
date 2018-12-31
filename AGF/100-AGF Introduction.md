@@ -1,7 +1,19 @@
 Azure Governance Foundations Introduction
 =========================================
 
-1
+##### Contents:
+
+[The need for governance](#the-need-for-governance)
+
+[The cloud operating model](#the-cloud-operating-model)
+
+[Executive Summary](#executive-summary-of-a-cloud-center-of-excellence)
+
+[History](#history)
+
+[What is a CoE](#what-is-a-ccoe)
+
+[Do I need a CoE?](#do-i-need-a-ccoe)
 
 The need for governance
 -----------------------
