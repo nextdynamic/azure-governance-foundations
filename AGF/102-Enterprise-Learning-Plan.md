@@ -218,29 +218,12 @@ Advanced Workload-based (T3)
 Customer Training Plan and Schedule
 -----------------------------------
 
-| General CCoE Memebers |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|---------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| Cost                  | Title / Description                                                                                                                          | Delivery          | Duration      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Free                  | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                                           | Self-Service      | 4 hours       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Free                  | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure)(25 modules)      | Self-Service      | 38 hours      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Cost                  | MOC Course - [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                           | Instructor Led    | 2 Days        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| T2                    |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Cost                  | Title / Description                                                                                                                          | Delivery          | Duration      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Free                  | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-Service      | 48 hours      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Fee                   | MOC Courses - Azure Administrator (AZ-100 and AZ-101 series includes 10 total courses available in various durations)                        | Instructor Led    | Up to 10 days |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-| Fee                   | Certification – [Microsoft Certified Azure Administrator Associate](https://www.microsoft.com/en-us/learning/azure-administrator.aspx)       | Self-Service Exam | \~3-5 hours   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
-
 ### T1
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
 3.1 Role Definitions
 --------------------
