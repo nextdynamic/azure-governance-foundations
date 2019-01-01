@@ -4,21 +4,21 @@ Enterprise Learning Plan
 Contents:
 ---------
 
--   Assessment and Gap Analysis 1
+-   [Assessment and Gap Analysis](#assessment-and-gap-analysis)
 
--   Skill Requirements 1
+-   [Skill Requirements](#skill-requirements)
 
--   Recommended Learning Plans 2
+-   [Recommended Learning Plans](#recommended-learning-plans)
 
--   Foundational (T1) 2
+-   [Foundational (T1)](#foundational-t1)
 
--   Advanced Role-based (T2) 3
+-   [Advanced Role-based (T2)](#advanced-role-based-t2)
 
--   Advanced Workload-based (T3) 4
+-   [Advanced Workload-based (T3)](#advanced-workload-based-t3)
 
--   Customer Training Plan and Schedule 4
+-   [Customer Training Plan](#customer-training-plan)
 
--   Role Definitions 5
+-   [Role Definitions](#role-definitions)
 
 Assessment and Gap Analysis
 ---------------------------
@@ -215,16 +215,29 @@ Advanced Workload-based (T3)
 
 -   Identifiable outcomes and workloads customer can deploy on Azure
 
-Customer Training Plan and Schedule
------------------------------------
+Customer Training Plan
+----------------------
 
-### T1
+### General CCoE membership Training Plan. A string foundational understanding of Azure is helpful for the entire CCoE, regardless of any committee membership. 
+
+### T1 - Foundational
 
 | Cost | Title                                                                                                                       | Delivery     | Duration |
 |------|-----------------------------------------------------------------------------------------------------------------------------|--------------|----------|
 | Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service | 4 hours  |
 | Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) |              |          |
 | Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            |              | 2 Days   |
+
+### T1 - Foundational
+
+| Cost | Title                                                                                                                       | Delivery     | Duration |
+|------|-----------------------------------------------------------------------------------------------------------------------------|--------------|----------|
+| Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service | 4 hours  |
+| Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) |              |          |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            |              | 2 Days   |
+
+ssss
+----
 
 3.1 Role Definitions
 --------------------
