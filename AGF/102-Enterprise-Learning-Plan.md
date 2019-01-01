@@ -219,11 +219,12 @@ Customer Training Plan and Schedule
 -----------------------------------
 
 ### T1
-|Cost |Title   |Delivery   |Duration   |  
-|---|---|---|---|
-|Free   |Microsoft Learn   |   |4 hours   |
-|Free   |   |   |   |
-|Cost   |   |   |2 Days   |
+
+| Cost | Title                                                                                                                       | Delivery     | Duration |
+|------|-----------------------------------------------------------------------------------------------------------------------------|--------------|----------|
+| Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service | 4 hours  |
+| Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) |              |          |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            |              | 2 Days   |
 
 3.1 Role Definitions
 --------------------
