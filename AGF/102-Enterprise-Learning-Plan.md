@@ -24,41 +24,69 @@ Assessment and Gap Analysis
 ---------------------------
 
 The CCoE requires people, processes, and technology with the capabilities needed
-for the scope of this offering. Before committees can operate effectively, they
-must become subject matter experts in the Azure offerings that relate to the
-committee’s purview. The Partner will work with the customer to assess the skill
-level of the members of committees as well as the customer’s current Azure
-environment. While the Partner may act as a committee member in these groups it
-is of paramount importance that the customer be knowledgeable of the appropriate
-Azure offerings and act as their own agents in creating policies.
+for the scope of the AGF. Before committees can operate effectively, they must
+become subject matter experts in the Azure offerings that relate to the
+committee’s purview.
 
-Any training or workshops required to bring committee members up to the
-appropriate level of expertise will be included in the scope of work from the
-Partner. The level of effort necessary to bring the customer and their
-environment up to the needed functionality to support CCoE will be determined
-and added to offering by the Partner. These workshops can generally be delivered
-in parallel if needed in the interest of time since most of the topics will not
-include members of other committees.
+If you work directly with a Microsoft Customer Success Unit, or a Microsoft
+Partner they will work with you to assess the skill level of the members of
+committees as well as your current Azure environment (if any).
+
+It is of paramount importance that the members of committee be knowledgeable of
+the appropriate Azure offerings and act as their own agents in creating
+policies.
+
+If you work directly with a Microsoft Customer Success Unit, or a Microsoft
+Partner, any training or workshops required to bring committee members up to the
+appropriate level of expertise will be included in an Enterprise Skills
+Initiative created by your Cloud Solution Architect or the scope of work from
+the Partner. Generally speaking if you are working with either of these groups,
+you will not need to focus on this section of the AGF as this effort will be
+completed by the CSU or partner.
+
+If you do not work with either of these, you will need to go through a skills
+gap exercise and determine what training will be required by the members of the
+CCoE and then create an appropriate learning plan for your Enterprise. What
+follows is a sample plan that you can use as a framework. Please tailor it to
+fit your needs.
+
+NOTE: When planning the training activities or workshops, they can generally be
+delivered in parallel if needed in the interest of time since most of the topics
+will not include members of other committees.
 
 Skill Requirements
 ------------------
 
-Describe the skills required to meet the business goals.
+If you are creating your own plan, you may find it helpful to describe the
+skills required to meet the business goals. This will allow you to clearly see
+the objectives at the highest levels and seek appropriate sign-off.
 
-In order to accomplish their business goals, XYZ has a need to help ramp up
+For Example:
+
+In order to accomplish their business goals, Contoso has a need to help ramp up
 specific skills in Application Modernization (Containers, Functions, API
 Management, Application Insights) along with some Cloud Infrastructure
 Fundamentals (Compute, Storage, Networking, Backup, Monitoring) for staff that
-have not yet had the opportunity to work with Azure. They plan to train 100
-people total in different cities: Hong Kong, Tokyo and Shanghai.
+have not yet had the opportunity to work with those aspects of Azure. They plan
+to train 130 people total in different cities: New York, Frankfort and Shanghai.
+They want to complete all the training in the next 90 days.
 
- Recommended Learning Plans
----------------------------
+Recommended Learning Plans
+--------------------------
 
 *Training Menu*
 
+Creating a training menu provides attendees and management with a simple
+reference that gives insight into the overall training plan by breaking the
+learning into three tiers which relate to basic, intermediate and advanced.
+
 The training menu is divided into three tiers of training packages:
-Foundational, Advanced Role-Based, and Advanced Workload-Based.
+
+-   Foundational
+
+-   Advanced Role-Based
+
+-   Advanced Workload-Based.
 
 Tier 1 offers an introductory start to Azure with self-paced and instructor-led
 options.
@@ -67,17 +95,22 @@ Tier 2 provides master Azure skills within more in-depth training with
 self-paced MOOC and instructor-led options.
 
 Tier 3 provides instructor-led and facilitated training for a deep dive into
-Azure workloads with topic-based workshops and Hacks.
+Azure workloads with topic-based workshops and/or Hackathons.
 
-Both T2 and T3 are considered advanced level content.
-
-![](media/df3cb0c4ab5dfe55e44f969b4d6947c6.png)
+![](media/15991899344eba6ddc7335bea3d5e843.png)
 
 Foundational (T1)
 -----------------
 
->   *Introductory start to learning Azure. Available as Self-Paced (online) or
->   Instructor Led.*
+T1 training can be accomplished as a self-paced (online) effort or it can be
+delivered as Instructor-Led training.
+
+Self-paced learning, while convenient, also requires proper planning and
+accountability. The Azure Administrator course, for example, can take 40 hours
+to complete. Simply assigning this training to CCoE members without providing
+them with focused time away from their other activities and a system of
+accountability is a prescription for failure. To ensure success in self-paced
+training, treat it with the same respect you would an instructor-led course.
 
 **1. Microsoft Learn -**
 [www.microsoft.com/learn](http://www.microsoft.com/learn)
@@ -111,21 +144,24 @@ Foundational (T1)
 
     -   All scripts and code samples available for download
 
-**2. Instructor-led –** Azure Fundamentals (coming soon)
+**2. Instructor-led –** Azure Fundamentals Course (Link to be added)
 
 Advanced Role-based (T2)
 ------------------------
 
->   *Master Azure skills with in-depth role-based training that is aligned to
->   certification.*
+T2 training is aligned to specific roles and can also be accomplished as a
+self-paced (online) effort or it can be delivered as Instructor-Led training. T2
+training aligns with Microsoft Azure Certifications and you should strongly
+consider using these certifications as one of your measure (though not the only)
+of the successful completion of these efforts.
 
 1.  **Available through Microsoft Learning Partners**
 
--   Online courses (available for free)
+    -   Online courses (available for free)
 
--   Instructor-led Training (in-person and free)
+    -   Instructor-led Training (in-person and free)
 
-1.  **Pluralsight - Learning path to Azure certification **
+2.  **Pluralsight - Learning path to Azure certification **
 
 -   Online Courses (available for free)
 
@@ -150,11 +186,14 @@ Advanced Role-based (T2)
 Advanced Workload-based (T3)
 ----------------------------
 
->   *Deep dive into Azure workloads with topic-based workshops and Hack*s.
+>   T3 level trainings are deep dives into specific Azure workloads with
+>   topic-based workshops and Hacks. Given the in-depth nature, these are not
+>   available as self-paced learning. Training at this level of depth requires
+>   experienced training resources and is certainly the most challenging for an
+>   organization to deliver on their own. Most customers will need to make sure
+>   of Microsoft or Microsoft Partner resources to accomplish this level.
 
->   **1. Scenario-Based Workshops – “Microsoft Cloud Workshops” – Customer-ready
->   content from the Intelligent Cloud Architect Boot Camp to host your own
->   event with customers and/or partners**
+1.  **Scenario-Based Workshops – “Microsoft Cloud Workshops”**
 
 -   Available on GitHub - <https://github.com/Microsoft/MCW>
 
@@ -167,42 +206,48 @@ Advanced Workload-based (T3)
 -   Use customer-ready Whiteboard Design and Hackathon content from the Cloud
     Boot Camp, as nominated by the WW Tech Sales Leads
 
->   **2. CSE OpenHack, Strategic Hack - Large-scale coding engagement focused on
->   the development and knowledge transfer of strategic tech skills to both MSFT
->   (CSA, TSP, GBB) and industry (customer, partner, developer) tech roles
->   through challenge-based hack.**
+**2. CSE OpenHack and Strategic Hackathons.**
 
 -   OpenHack details:
     [aka.ms/CSEOpenHackRegister](https://aka.ms/CSEOpenHackRegister)
-
--   Project Hacks with CSE – 5 days
 
 -   “Code with” Hackathons focused on a specific customer project
 
 -   Identifiable outcomes and workloads customer can deploy on Azure
 
--   Available through Open Hacks, Multi Customer Hacks, & 1:1
-
 Customer Training Plan and Schedule
 -----------------------------------
 
-| **Targeted Role(s)**                                       | **\# to be trained** | **Title of Training**               | **Level**                 | **Delivery Approach**                               | **Length** | **Scheduled Date**           |
-|------------------------------------------------------------|----------------------|-------------------------------------|---------------------------|-----------------------------------------------------|------------|------------------------------|
-| **Foundational Training**                                  |                      |                                     |                           |                                                     |            |                              |
-| *SAMPLE: Business Decision Makers and Project Managers*    | *100*                | *Azure Essentials*                  | *Foundational*            | *In-person, Learning Partner*                       | *varies*   | *June 4th (ongoing monthly)* |
-|                                                            |                      |                                     |                           |                                                     |            |                              |
-|                                                            |                      |                                     |                           |                                                     |            |                              |
-| **Role-Based Training**                                    |                      |                                     |                           |                                                     |            |                              |
-| *SAMPLE: System Administrators, Architects, and Engineers* | *20*                 | *Implementing Azure Infrastructure* | *Role-based Advanced*     | *ILT at customer*                                   | *5 days*   | *July 2nd-3rd*               |
-|                                                            |                      |                                     |                           |                                                     |            |                              |
-|                                                            |                      |                                     |                           |                                                     |            |                              |
-| **Workload-Based Training**                                |                      |                                     |                           |                                                     |            |                              |
-| *SAMPLE: Architects, and Developers*                       | *15*                 | *\<\<Specific Workshop titles\>\>*  | *Workload-based Advanced* | *Two Workshops with Hands-on Labs at customer site* | *2 days*   | *Xx - xx*                    |
-|                                                            |                      |                                     |                           |                                                     |            |                              |
-|                                                            |                      |                                     |                           |                                                     |            |                              |
+| General CCoE Memebers |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|-----------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|---------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Cost                  | Title / Description                                                                                                                          | Delivery          | Duration      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Free                  | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                                           | Self-Service      | 4 hours       |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Free                  | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure)(25 modules)      | Self-Service      | 38 hours      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Cost                  | MOC Course - [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                           | Instructor Led    | 2 Days        |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| T2                    |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Cost                  | Title / Description                                                                                                                          | Delivery          | Duration      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Free                  | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-Service      | 48 hours      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Fee                   | MOC Courses - Azure Administrator (AZ-100 and AZ-101 series includes 10 total courses available in various durations)                        | Instructor Led    | Up to 10 days |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Fee                   | Certification – [Microsoft Certified Azure Administrator Associate](https://www.microsoft.com/en-us/learning/azure-administrator.aspx)       | Self-Service Exam | \~3-5 hours   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|                       |                                                                                                                                              |                   |               |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+### T1
 
 3.1 Role Definitions
 --------------------
+
+Because the training resources listed here are meant to serve the widest
+possible audiences and are not aligned directly with the AGF, the specific
+definitions of these roles is listed below.
 
 -   Azure Administrator-
 
