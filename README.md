@@ -29,7 +29,7 @@ The goal of the AGF is to help customers:
 
 -   Increase TTM for workloads deployed in Azure.
 
-Is AGF for me?
+Is the AGF for me?
 --------------
 
 The Azure Governance Foundation is for any organization that wants to implement
