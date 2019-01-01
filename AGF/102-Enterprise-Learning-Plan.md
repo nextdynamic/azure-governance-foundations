@@ -1,6 +1,25 @@
 Enterprise Learning Plan
 ========================
 
+Contents:
+---------
+
+-   Assessment and Gap Analysis 1
+
+-   Skill Requirements 1
+
+-   Recommended Learning Plans 2
+
+-   Foundational (T1) 2
+
+-   Advanced Role-based (T2) 3
+
+-   Advanced Workload-based (T3) 4
+
+-   Customer Training Plan and Schedule 4
+
+-   Role Definitions 5
+
 Assessment and Gap Analysis
 ---------------------------
 
@@ -26,20 +45,15 @@ Skill Requirements
 
 Describe the skills required to meet the business goals.
 
-In order to accomplish their business goals, Contoso has a need to develop
+In order to accomplish their business goals, XYZ has a need to help ramp up
 specific skills in Application Modernization (Containers, Functions, API
-Management, Application Insights) along with Cloud Infrastructure Fundamentals
-(Compute, Storage, Networking, Backup, Monitoring) for staff that have not yet
-had the opportunity to work with Azure. The three role types currently
-identified are Azure Solution Architects, Azure Administrators and Azure
-Developers.
+Management, Application Insights) along with some Cloud Infrastructure
+Fundamentals (Compute, Storage, Networking, Backup, Monitoring) for staff that
+have not yet had the opportunity to work with Azure. They plan to train 100
+people total in different cities: Hong Kong, Tokyo and Shanghai.
 
-They plan to train as many as 4000 people total in different cities though
-primarily in the Cincinnati area. The initial T1 Instructor-led training will
-likely be limited to 50 peple.
-
-Recommended Learning Plans
---------------------------
+ Recommended Learning Plans
+---------------------------
 
 *Training Menu*
 
@@ -59,7 +73,8 @@ Both T2 and T3 are considered advanced level content.
 
 ![](media/df3cb0c4ab5dfe55e44f969b4d6947c6.png)
 
-### Foundational (T1)
+Foundational (T1)
+-----------------
 
 >   *Introductory start to learning Azure. Available as Self-Paced (online) or
 >   Instructor Led.*
@@ -77,28 +92,29 @@ Both T2 and T3 are considered advanced level content.
 
 -   Gamification & Achievements
 
--   Unlock achievements
+    -   Unlock achievements
 
--   Task-based achievements to reward your hands-on skills
+    -   Task-based achievements to reward your hands-on skills
 
--   Customizable user profile
+    -   Customizable user profile
 
-    -   Friction-free Learning
+-   Friction-free Learning
 
-    -   All learning content is free
+-   All learning content is free
 
-        -   Free trial accounts to easily test-drive products and services
+    -   Free trial accounts to easily test-drive products and services
 
-        -   Content available in the spoken language and programming language of
-            my choice
+    -   Content available in the spoken language and programming language of my
+        choice
 
-        -   No-install, browser-based Interactive coding/scripting environments
+    -   No-install, browser-based Interactive coding/scripting environments
 
-        -   All scripts and code samples available for download
+    -   All scripts and code samples available for download
 
-        -   **2. Instructor-led –** Azure Fundamentals (coming soon)
+**2. Instructor-led –** Azure Fundamentals (coming soon)
 
-### Advanced Role-based (T2)
+Advanced Role-based (T2)
+------------------------
 
 >   *Master Azure skills with in-depth role-based training that is aligned to
 >   certification.*
@@ -131,7 +147,8 @@ Both T2 and T3 are considered advanced level content.
 
 -   Courses in English, translated sub-titles via closed caption
 
-### Advanced Workload-based (T3)
+Advanced Workload-based (T3)
+----------------------------
 
 >   *Deep dive into Azure workloads with topic-based workshops and Hack*s.
 
@@ -169,20 +186,20 @@ Both T2 and T3 are considered advanced level content.
 Customer Training Plan and Schedule
 -----------------------------------
 
-| **Targeted Role(s)**                                       | **\# to be trained** | **Title of Training**               | **Level**                 | **Delivery Approach (Learning Partner or MSFT and specific role/person to deliver)** | **Length** | **Delivered by**   | **Scheduled Delivery Date**  | **Completed Delivery Date** |
-|------------------------------------------------------------|----------------------|-------------------------------------|---------------------------|--------------------------------------------------------------------------------------|------------|--------------------|------------------------------|-----------------------------|
-| **Foundational Training**                                  |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-| *SAMPLE: Business Decision Makers and Project Managers*    | *100*                | *Azure Essentials*                  | *Foundational*            | *In-person, Learning Partner*                                                        | *varies*   | *Self-paced*       | *June 4th (ongoing monthly)* |                             |
-|                                                            |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-|                                                            |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-| **Role-Based Training**                                    |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-| *SAMPLE: System Administrators, Architects, and Engineers* | *20*                 | *Implementing Azure Infrastructure* | *Role-based Advanced*     | *ILT at customer*                                                                    | *5 days*   | *Learning Partner* | *July 2nd-3rd*               |                             |
-|                                                            |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-|                                                            |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-| **Workload-Based Training**                                |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-| *SAMPLE: Architects, and Developers*                       | *15*                 | *\<\<Specific Workshop titles\>\>*  | *Workload-based Advanced* | *Two Workshops with Hands-on Labs at customer site*                                  | *2 days*   | *CSA, GBB*         | *Xx - xx*                    |                             |
-|                                                            |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
-|                                                            |                      |                                     |                           |                                                                                      |            |                    |                              |                             |
+| **Targeted Role(s)**                                       | **\# to be trained** | **Title of Training**               | **Level**                 | **Delivery Approach**                               | **Length** | **Scheduled Date**           |
+|------------------------------------------------------------|----------------------|-------------------------------------|---------------------------|-----------------------------------------------------|------------|------------------------------|
+| **Foundational Training**                                  |                      |                                     |                           |                                                     |            |                              |
+| *SAMPLE: Business Decision Makers and Project Managers*    | *100*                | *Azure Essentials*                  | *Foundational*            | *In-person, Learning Partner*                       | *varies*   | *June 4th (ongoing monthly)* |
+|                                                            |                      |                                     |                           |                                                     |            |                              |
+|                                                            |                      |                                     |                           |                                                     |            |                              |
+| **Role-Based Training**                                    |                      |                                     |                           |                                                     |            |                              |
+| *SAMPLE: System Administrators, Architects, and Engineers* | *20*                 | *Implementing Azure Infrastructure* | *Role-based Advanced*     | *ILT at customer*                                   | *5 days*   | *July 2nd-3rd*               |
+|                                                            |                      |                                     |                           |                                                     |            |                              |
+|                                                            |                      |                                     |                           |                                                     |            |                              |
+| **Workload-Based Training**                                |                      |                                     |                           |                                                     |            |                              |
+| *SAMPLE: Architects, and Developers*                       | *15*                 | *\<\<Specific Workshop titles\>\>*  | *Workload-based Advanced* | *Two Workshops with Hands-on Labs at customer site* | *2 days*   | *Xx - xx*                    |
+|                                                            |                      |                                     |                           |                                                     |            |                              |
+|                                                            |                      |                                     |                           |                                                     |            |                              |
 
 3.1 Role Definitions
 --------------------
@@ -238,5 +255,3 @@ Customer Training Plan and Schedule
 
     -   proficient in Azure administration, Azure development, and DevOps, and
         have expert-level skills in at least one of those domains 
-
--   More roles coming soon including Data & AI
