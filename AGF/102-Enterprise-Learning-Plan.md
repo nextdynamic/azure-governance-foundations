@@ -243,11 +243,11 @@ similar content.
 ### Platform Governance Committee Training Plan
 
 Below is a list of suggested training topics for the Platform Governance
-Committee. Depending on the results of your skills gap analysis, not all these
-topics need be covered. Additionally, there may be other topics that should be
-covered for which no training resources are yet identified. In these cases, the
-online references at <http://docs.microsoft.com> may be substituted for
-traditional courses.
+Committee. Depending on the results of your skills gap analysis and your planned
+workloads in Azure, not all these topics need be covered. Additionally, there
+may be other topics that should be covered for which no training resources are
+yet identified. In these cases, the online references at
+<http://docs.microsoft.com> may be substituted for traditional courses.
 
 | Free | Title                                                                                                                              | Delivery       | Duration |
 |------|------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
@@ -276,15 +276,15 @@ courses.
 | Free | Title                                                                                                                                  | Delivery       | Duration |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
 | No   | [Manage Identities](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T05)                                                | Instructor-led | 1 day    |
-| No   | [Configure and Manage Virtual Networks](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T04)                            |                |          |
+| No   | [Configure and Manage Virtual Networks](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T04)                            | Instructor-led | 1 day    |
 | No   | [Implement Advanced Virtual Networking](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T03)                            | Instructor-led | 1 day    |
 | No   | [Implement security in Azure development solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-200T04)                | Instructor-led | 1 day    |
 | No   | [Implementing Workloads and Security](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T02)                              | Instructor-led | 1 day    |
 | No   | [Implementing Authentication and Secure Data](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T05)                      | Instructor-led | 1 day    |
 | No   | [Designing for Identity and Security](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T01)                              | Instructor-led | 1 day    |
-| No   | [Microsoft Cloud Workshop: Securing PaaS](https://www.microsoft.com/en-us/learning/course.aspx?cid=40534)                              | Instructor-led | 1 day    |
+| No   | [Securing PaaS](https://www.microsoft.com/en-us/learning/course.aspx?cid=40534)                                                        | Instructor-led | 1 day    |
 | No   | [Azure Security, Privacy, and Compliance](https://www.microsoft.com/en-us/learning/course.aspx?cid=40527)                              | Instructor-led | 3 days   |
-| No   | [Integrating On-Premises Identity Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10993) | Either         | 2 day    |
+| No   | [Integrating On-Premises Identity Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10993) | Either         | 2 days   |
 | No   | [Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)                | Either         | 5 days   |
 | No   | [Secure Identities](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T04)                                                | Instructor-led | 1 day    |
 
@@ -318,12 +318,14 @@ courses.
 | Free | Title                                                                                                                                                                                            | Delivery       | Duration |
 |------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
 | No   | [Architecting Microsoft Azure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20535)                                                                                         | Either         | 5 days   |
+| No   | [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T03)                                                                         | Instructor-led | .5 day   |
 | No   | [Designing a Data Platform Solution](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T02)                                                                                         | Instructor-led | 1 day    |
 | No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)                                                                                       | Instructor-led | 1 day    |
 | No   | [Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=55247)                                                                       | Instructor-led | 3 days   |
 | No   | [Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)                                                                          | Either         | 5 days   |
 | No   | [Integrating On-Premises Core Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10992)                                                               | Either         | 5 days   |
-| No   | [Microsoft Azure Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=552241)                                                                                  | Instructor-led | 2 day    |
+| No   | [Microsoft Azure Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=552241)                                                                                  | Instructor-led | 2 days   |
+| No   | [Containers and DevOps](https://www.microsoft.com/en-us/learning/course.aspx?cid=40501)                                                                                                          | Instructor-led | 1 day    |
 | No   | [Building a Resilient IaaS Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40513) [Containers and DevOps](https://www.microsoft.com/en-us/learning/course.aspx?cid=40501) | Instructor-led | 1 day    |
 | No   | [Optimized Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40520)                                                                                                         | Instructor-led | 1 day    |
 | No   | [Microservices Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40507)                                                                                                     | Instructor-led | 1 day    |
@@ -339,11 +341,15 @@ which no training resources are yet identified. In these cases, the online
 references at <http://docs.microsoft.com> may be substituted for traditional
 courses.
 
-| Free | Title                                                                                                                       | Delivery       | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
+| Free | Title                                                                                                           | Delivery       | Duration |
+|------|-----------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Microservices Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40507)                    | Instructor-led | 1 day    |
+| No   | [Serverless Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40535)                       | Instructor-led | 1 day    |
+| No   | [Big Compute](https://www.microsoft.com/en-us/learning/course.aspx?cid=40529)                                   | Instructor-led | 1 day    |
+| No   | [Cognitive Services and Deep Learning](https://www.microsoft.com/en-us/learning/course.aspx?cid=40530)          | Instructor-led | 1 day    |
+| No   | [Containers and DevOps](https://www.microsoft.com/en-us/learning/course.aspx?cid=40501)                         | Instructor-led | 1 day    |
+| No   | [IoT for Business](https://www.microsoft.com/en-us/learning/course.aspx?cid=40531)                              | Instructor-led | 1 day    |
+| No   | [Microsoft Azure Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=552241) | Instructor-led | 2 days   |
 
 ### Automation Committee Training Plan
 
@@ -354,18 +360,22 @@ which no training resources are yet identified. In these cases, the online
 references at <http://docs.microsoft.com> may be substituted for traditional
 courses.
 
-| Free | Title                                                                                                                       | Delivery       | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
+| Free | Title                                                                                                          | Delivery       | Duration |
+|------|----------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Deploy and Manage Linux on Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=55257)             | Instructor-led | 4 days   |
+| No   | [Deploying and Configuring Infrastructure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T01) | Instructor-led | 1 day    |
+| No   | [Implementing Continuous Integration](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-400T02)      | Instructor-led | 1 day    |
+| No   | [Continuous Delivery in VSTS and Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=40511)        | Instructor-led | 1 day    |
+| No   | [Containers and DevOps](https://www.microsoft.com/en-us/learning/course.aspx?cid=40501)                        | Instructor-led | 1 day    |
+| No   | [OSS DevOps ](https://www.microsoft.com/en-us/learning/course.aspx?cid=40509)                                  | Instructor-led | 1 day    |
+| No   | [Deploying and Managing Virtual Machines](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T03)  | Instructor-led | 1 day    |
 
 3.1 Role Definitions
 --------------------
 
 Because the training resources listed here are meant to serve the widest
-possible audiences and are not aligned directly with the AGF, the specific
-definitions of these roles is listed below.
+possible audiences and they are not specifically aligned with the AGF, the
+definitions of these roles is listed below to remove any ambiguity.
 
 -   Azure Administrator-
 
