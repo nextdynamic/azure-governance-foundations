@@ -241,13 +241,19 @@ covered for which no training resources are yet identified. In these cases, the
 online references at <http://docs.microsoft.com> may be substituted for
 traditional courses.
 
-| Free | Title                                                                                                            | Delivery       | Duration |
-|------|------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | [Managing Azure Subscriptions and Resources](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T01) | Instructor-led | 1 day    |
-| No   | [Implementing and Managing Storage](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T02)          | Instructor-led | 1 day    |
-| No   | [Deploying and Managing Virtual Machines](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T03)    | Instructor-led | 1 day    |
-| No   | [Migrate Servers to Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T01)                   | Instructor-led | 1 day    |
-| No   | [Implement and Manage Application Services](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T02)  | Instructor-led | 1 day    |
+| Free | Title                                                                                                                    | Delivery       | Duration |
+|------|--------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Managing Azure Subscriptions and Resources](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T01)         | Instructor-led | 1 day    |
+| No   | [Implementing and Managing Storage](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T02)                  | Instructor-led | 1 day    |
+| No   | [Deploying and Managing Virtual Machines](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T03)            | Instructor-led | 1 day    |
+| No   | [Migrate Servers to Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T01)                           | Instructor-led | 1 day    |
+| No   | [Deploying and Configuring Infrastructure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T01)           | Instructor-led | 1 day    |
+| No   | [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T03) | Instructor-led | 1 day    |
+| No   | [Creating and Deploying Apps](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T04)                        | Instructor-led | 1 day    |
+| No   | [Developing for the Cloud](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T06)                           | Instructor-led | 1 day    |
+| No   | [Design for Deployment, Migration, and Integration](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T03)  | Instructor-led | 1 day    |
+| No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)               | Instructor-led | 1 day    |
+| No   | [Implement and Manage Application Services](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T02)          | Instructor-led | 1 day    |
 
 ### Security Committee Training Plan
 
