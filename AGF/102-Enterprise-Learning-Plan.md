@@ -105,7 +105,7 @@ Foundational (T1)
 T1 training can be accomplished as a self-paced (online) effort or it can be
 delivered as Instructor-Led training.
 
-Self-paced learning, while convenient, also requires proper planning and
+NOTE: Self-paced learning, while convenient, also requires proper planning and
 accountability. The Azure Administrator course, for example, can take 40 hours
 to complete. Simply assigning this training to CCoE members without providing
 them with focused time away from their other activities and a system of
@@ -218,23 +218,22 @@ Advanced Workload-based (T3)
 Customer Training Plan
 ----------------------
 
-### General CCoE membership Training Plan. A string foundational understanding of Azure is helpful for the entire CCoE, regardless of any committee membership. 
+### General CCoE membership Training Plan. A string foundational understanding of Azure is helpful for the entire CCoE, regardless of any committee membership.
 
 ### T1 - Foundational
 
-| Cost | Title                                                                                                                       | Delivery     | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|--------------|----------|
-| Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service | 4 hours  |
-| Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) |              |          |
-| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            |              | 2 Days   |
+| Cost | Title                                                                                                                       | Delivery       | Duration |
+|------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 4 hours  |
+| Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
 
-### T1 - Foundational
+### T2- Advanced
 
-| Cost | Title                                                                                                                       | Delivery     | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|--------------|----------|
-| Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service | 4 hours  |
-| Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) |              |          |
-| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            |              | 2 Days   |
+| Cost | Title                                                                                                                                        | Delivery          | Duration  |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|
+| Free | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-service      | 48 hours  |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                             | Self-Service Exam | 3-5 hours |
 
 ssss
 ----
