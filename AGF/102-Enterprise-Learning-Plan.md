@@ -219,11 +219,11 @@ Customer Training Plan and Schedule
 -----------------------------------
 
 ### T1
-|Cost |Title   |Delivery   |Duration   |   |
-|---|---|---|---|---|
-|Free   |Microsoft Learn   |   |4 hours   |   |
-|Free   |   |   |   |   |
-|Cost   |   |   |2 Days   |   |
+|Cost |Title   |Delivery   |Duration   |  
+|---|---|---|---|
+|Free   |Microsoft Learn   |   |4 hours   |
+|Free   |   |   |   |
+|Cost   |   |   |2 Days   |
 
 3.1 Role Definitions
 --------------------
