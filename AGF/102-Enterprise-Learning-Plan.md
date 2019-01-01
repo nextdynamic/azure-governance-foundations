@@ -218,9 +218,32 @@ Advanced Workload-based (T3)
 Customer Training Plan
 ----------------------
 
-### General CCoE membership Training Plan. A string foundational understanding of Azure is helpful for the entire CCoE, regardless of any committee membership.
+### General CCoE membership Training Plan.
 
-### T1 - Foundational
+A strong foundational understanding of Azure is helpful for the entire CCoE,
+regardless of any committee membership. Everyone should attend these courses or
+similar content.
+
+| Cost | Title                                                                                                                                        | Delivery          | Duration  |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|
+| Free | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                                           | Self-service      | 4 hours   |
+| Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure)                  | Self-service      | 38 hours  |
+| Free | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-service      | 48 hours  |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                             | Instructor-led    | 2 days    |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                             | Self-Service Exam | 3-5 hours |
+
+#### T2- Advanced
+
+| Cost | Title                                                                                                                                        | Delivery          | Duration  |
+|------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|
+| Free | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-service      | 48 hours  |
+| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                             | Self-Service Exam | 3-5 hours |
+
+### Platform Governance Committee Training Plan.
+
+any committee membership.
+
+#### T1 - Foundational
 
 | Cost | Title                                                                                                                       | Delivery       | Duration |
 |------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
@@ -228,15 +251,7 @@ Customer Training Plan
 | Free | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
 | Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
 
-### T2- Advanced
-
-| Cost | Title                                                                                                                                        | Delivery          | Duration  |
-|------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|
-| Free | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-service      | 48 hours  |
-| Cost | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                             | Self-Service Exam | 3-5 hours |
-
 ssss
-----
 
 3.1 Role Definitions
 --------------------
