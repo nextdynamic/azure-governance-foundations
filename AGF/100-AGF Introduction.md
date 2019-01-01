@@ -225,8 +225,7 @@ back into the Shadow IT world.
 
 ![A yellow sign on a pole Description generated with very high confidence](media/6e91dd449fb5f63c91ce45795420901c.png)
 
-A better approach than stopping every request and manually addressing it would be a system where requests can be self-service but also one where they are automatically provisioned in a manner that meets the corporate governance, security and compliance requirements. 
-===========================================================================================================================================================================================================================================================================
+###### A better approach than stopping every request and manually addressing it would be a system where requests can be self-service but also one where they are automatically provisioned in a manner that meets the corporate governance, security and compliance requirements.
 
 Think of it as a round-about (or traffic circle) where request can come through
 and be met safely and without needing to stop. “Guardrails” are in place to
@@ -261,6 +260,8 @@ S
 ![](media/b501c641498a7bfe218cdf6b895e946e.png)
 
 ![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
+
+A picture containing text, map Description automatically generated
 
 ### Do I need a ccoe?
 
