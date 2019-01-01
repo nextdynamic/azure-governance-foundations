@@ -259,13 +259,7 @@ S
 
 ![](media/b501c641498a7bfe218cdf6b895e946e.png)
 
-![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
-
-A picture containing text, map Description automatically generated
-
-A picture containing text, map Description automatically generated
-
-A picture containing text, map Description automatically generated
+![](media/c4e7893791612dbca36558382524caf6.png)
 
 ### Do I need a ccoe?
 
