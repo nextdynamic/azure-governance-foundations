@@ -179,7 +179,7 @@ of the successful completion of these efforts.
     -   [Azure
         Developer](https://www.pluralsight.com/role-iq/microsoft-azure-developer?aid=7010a000001xDURAA2)
 
--   Over 130 courses available by December 2018
+-   Over 130 courses available
 
 -   Courses in English, translated sub-titles via closed caption
 
@@ -218,6 +218,13 @@ Advanced Workload-based (T3)
 Customer Training Plan
 ----------------------
 
+NOTE: The following are suggested training plans for the various committees and
+the CCoE as a whole. The courses suggested are either official Microsoft content
+or Microsoft approved. Other content may exist as well and may be an appropriate
+substitute for these suggestions. As always in training plans, it is the
+successful transference of knowledge and skills that is important. Feel free to
+employ other content if your organization already has access to it.
+
 ### General CCoE membership Training Plan
 
 A strong foundational understanding of Azure is helpful for the entire CCoE,
@@ -227,9 +234,10 @@ similar content.
 | Free | Title                                                                                                                                        | Delivery          | Duration  |
 |------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------|-----------|
 | Yes  | Microsoft Learn – [Azure Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                                     | Self-service      | 4 hours   |
+| Yes  | MOC Course [Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-900T01)                                          | Instructor-led    | 1 day     |
 | Yes  | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure)                  | Self-service      | 38 hours  |
 | Yes  | Pluralsight Online Courses - [Azure Administrator](https://www.pluralsight.com/role-iq/microsoft-azure-administrator?aid=7010a000001xDURAA2) | Self-service      | 48 hours  |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)                             | Instructor-led    | 2 days    |
+| No   | MOC Course [Introduction to Microsoft Azure for IT Professionals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Either            | 2 days    |
 | No   | Certification – [Microsoft Certified Azure Administrator Associate](https://www.microsoft.com/en-us/learning/azure-administrator.aspx)       | Self-Service Exam | 3-5 hours |
 
 ### Platform Governance Committee Training Plan
@@ -264,11 +272,18 @@ which no training resources are yet identified. In these cases, the online
 references at <http://docs.microsoft.com> may be substituted for traditional
 courses.
 
-| Free | Title                                                                                                                       | Delivery       | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 4 hours  |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
+| Free | Title                                                                                                                                  | Delivery       | Duration |
+|------|----------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Manage Identities](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T05)                                                | Instructor-led | 1 day    |
+|      | [Configure and Manage Virtual Networks ](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T04)                           |                |          |
+| No   | [Implement Advanced Virtual Networking](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T03)                            | Instructor-led | 1 day    |
+| No   | [Implement security in Azure development solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-200T04)                | Instructor-led | 1 day    |
+| No   | [Implementing Workloads and Security](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T02)                              | Instructor-led | 1 day    |
+| No   | [Implementing Authentication and Secure Data](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T05)                      | Instructor-led | 1 day    |
+| No   | [Designing for Identity and Security](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T01)                              | Instructor-led | 1 day    |
+| No   | [Microsoft Cloud Workshop: Securing PaaS](https://www.microsoft.com/en-us/learning/course.aspx?cid=40534)                              | Instructor-led | 1 day    |
+| No   | [Integrating On-Premises Identity Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10993) | Either         | 2 day    |
+| No   | [Secure Identities](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T04)                                                | Instructor-led | 1 day    |
 
 ### Monitoring Committee Training Plan
 
@@ -281,9 +296,9 @@ courses.
 
 | Free | Title                                                                                                                       | Delivery       | Duration |
 |------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 4 hours  |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
+| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
+| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
+| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
 
 ### Architecture Committee Training Plan
 
@@ -296,9 +311,9 @@ courses.
 
 | Free | Title                                                                                                                       | Delivery       | Duration |
 |------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 4 hours  |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
+| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
+| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
+| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
 
 ### Product Catalog Committee Training Plan
 
@@ -311,9 +326,9 @@ courses.
 
 | Free | Title                                                                                                                       | Delivery       | Duration |
 |------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 4 hours  |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
+| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
+| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
+| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
 
 ### Automation Committee Training Plan
 
@@ -326,9 +341,9 @@ courses.
 
 | Free | Title                                                                                                                       | Delivery       | Duration |
 |------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 4 hours  |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 38 hours |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 2 days   |
+| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
+| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
+| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
 
 3.1 Role Definitions
 --------------------
