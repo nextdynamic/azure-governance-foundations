@@ -223,7 +223,7 @@ requires more cloud resources than the custodian can manage, the requests sit
 idle. The longer the requests sit idle the more the requestor might be lured
 back into the Shadow IT world.
 
-![A yellow sign on a pole Description generated with very high confidence](media/6e91dd449fb5f63c91ce45795420901c.png)
+(media/6e91dd449fb5f63c91ce45795420901c.png)
 
 ###### A better approach than stopping every request and manually addressing it would be a system where requests can be self-service but also one where they are automatically provisioned in a manner that meets the corporate governance, security and compliance requirements.
 
