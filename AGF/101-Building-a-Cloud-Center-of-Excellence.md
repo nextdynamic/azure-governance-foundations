@@ -1,17 +1,17 @@
 Building a Cloud Center of Excellence
 =====================================
 
-1
+\<Content needed\>
 
 Executive sponsorship
 ---------------------
 
-1
+\<Content needed\>
 
 Governance approach general formation
 -------------------------------------
 
-1
+\<Content needed\>
 
 Membership
 ----------
@@ -33,10 +33,12 @@ creation of a Project Management Committee would not be out of place.
 Commitment and expectations
 ---------------------------
 
-2
+\<Content needed\>
 
 Charter
 -------
+
+\<Content needed\>
 
 Committee interaction
 ---------------------
@@ -58,7 +60,7 @@ Policies or Azure Blueprints.
 Azure Policy
 ------------
 
-A
+\<Content needed\>
 
 ![](media/2773ac3577d35093ea3b357c344461ce.png)
 
@@ -67,12 +69,12 @@ A
 Azure Blueprints
 ----------------
 
-A
+\<Content needed\>
 
 Workloads
 ---------
 
-A
+\<Content needed\>
 
 Where do I go from here?
 ------------------------
