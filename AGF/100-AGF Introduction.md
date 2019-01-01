@@ -133,6 +133,8 @@ resource usage for the business. Microsoft Azure provides a multitude of
 services and capabilities that enterprises assemble like building blocks to
 address a wide array of workloads and applications.
 
+![](media/b501c641498a7bfe218cdf6b895e946e.png)
+
 History
 =======
 
@@ -256,8 +258,6 @@ What is a ccoe?
 ===============
 
 S
-
-![](media/b501c641498a7bfe218cdf6b895e946e.png)
 
 ![](media/c4e7893791612dbca36558382524caf6.png)
 
