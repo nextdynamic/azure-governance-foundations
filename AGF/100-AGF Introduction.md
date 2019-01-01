@@ -250,14 +250,14 @@ By taking advance of the controls the cloud natively provides we can govern in a
 Cloud first, cloud forward
 ==========================
 
-S
-
-![](media/b728c00fe4137836a58d7514e266713f.png)
+\<Content needed\>
 
 What is a ccoe?
 ===============
 
-S
+\<Content needed\>
+
+![](media/b728c00fe4137836a58d7514e266713f.png)
 
 ![](media/c4e7893791612dbca36558382524caf6.png)
 
@@ -309,10 +309,3 @@ Once the CCoE has grown and matured the need for external guidance is be reduced
 and the customer alone should populate the CCoE. This offering is a hands-on
 approach where the customer achieves cultural change, adopt a new way of working
 and embed use of cloud-native technology and principles.
-
-S
-
-Agile
-=====
-
-S
