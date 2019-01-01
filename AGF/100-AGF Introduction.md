@@ -73,15 +73,31 @@ agility, governance and security to the business.
 The cloud operating model
 =========================
 
-S
+Cloud Operating Model (COM) helps organizations with a simplified cloud adoption
+journey with Microsoft Azure. It contains detailed information to cover an
+end-to-end cloud adoption journey, starting from assessing cloud readiness, to
+defining business and technology strategy. It contains a framework to
+strategize, plan, migrate, and optimize infrastructure for Microsoft Azure.
+
+If you haven’t yet read this document, it is strongly encouraged you do so now.
+The AGF approach is predicated on the COM and understanding the context it
+provides is important and valuable.
 
 ![](media/79199795796a8fc3a911693a3c1df51b.png)
 
-### People, process and tech
+The COM provides a comprehensive look at how enterprises might plan, migrate,
+and optimize infrastructure in the cloud and focuses on these through three
+strategy lenses, Business, People and Technology. The lion’s share of the
+content is, not surprisingly, focused on the technology strategy. In reading
+through the document you may have felt that the topic of people was somewhat
+brief (2 pages out of the 69 total pages).
 
-S
+The COM describes the creation of a Cloud Strategy Team (CST) consisting of
+business leaders, finance, IT infrastructure, and application groups. These
+teams can help with the cloud analysis and experimentation phase.
 
-ases, the partner can be seated on the committee as a purely advisory role.
+The Azure Governance Foundations provides guidance the next phase in that
+journey, what happens after the analysis and experimentation is completed.
 
 Executive Summary of a Cloud Center of Excellence
 -------------------------------------------------
@@ -130,6 +146,8 @@ S
 
 A yellow sign on a pole Description generated with very high confidence
 
+A yellow sign on a pole Description generated with very high confidence
+
 ![](media/b728c00fe4137836a58d7514e266713f.png)
 
 What is a ccoe?
@@ -140,6 +158,8 @@ S
 ![](media/b501c641498a7bfe218cdf6b895e946e.png)
 
 ![A picture containing text, map Description automatically generated](media/c4e7893791612dbca36558382524caf6.png)
+
+A picture containing text, map Description automatically generated
 
 A picture containing text, map Description automatically generated
 
