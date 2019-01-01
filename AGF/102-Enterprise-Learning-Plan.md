@@ -249,19 +249,20 @@ covered for which no training resources are yet identified. In these cases, the
 online references at <http://docs.microsoft.com> may be substituted for
 traditional courses.
 
-| Free | Title                                                                                                                    | Delivery       | Duration |
-|------|--------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | [Managing Azure Subscriptions and Resources](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T01)         | Instructor-led | 1 day    |
-| No   | [Implementing and Managing Storage](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T02)                  | Instructor-led | 1 day    |
-| No   | [Deploying and Managing Virtual Machines](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T03)            | Instructor-led | 1 day    |
-| No   | [Migrate Servers to Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T01)                           | Instructor-led | 1 day    |
-| No   | [Deploying and Configuring Infrastructure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T01)           | Instructor-led | 1 day    |
-| No   | [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T03) | Instructor-led | 1 day    |
-| No   | [Creating and Deploying Apps](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T04)                        | Instructor-led | 1 day    |
-| No   | [Developing for the Cloud](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T06)                           | Instructor-led | 1 day    |
-| No   | [Design for Deployment, Migration, and Integration](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T03)  | Instructor-led | 1 day    |
-| No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)               | Instructor-led | 1 day    |
-| No   | [Implement and Manage Application Services](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T02)          | Instructor-led | 1 day    |
+| Free | Title                                                                                                                              | Delivery       | Duration |
+|------|------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Managing Azure Subscriptions and Resources](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T01)                   | Instructor-led | 1 day    |
+| No   | [Implementing and Managing Storage](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T02)                            | Instructor-led | 1 day    |
+| No   | [Deploying and Managing Virtual Machines](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T03)                      | Instructor-led | 1 day    |
+| No   | [Migrate Servers to Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T01)                                     | Instructor-led | 1 day    |
+| No   | [Deploying and Configuring Infrastructure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T01)                     | Instructor-led | 1 day    |
+| No   | [Integrating On-Premises Core Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10992) | Either         | 5 days   |
+| No   | [Understanding Cloud Architect Technology Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T03)           | Instructor-led | 1 day    |
+| No   | [Creating and Deploying Apps](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T04)                                  | Instructor-led | 1 day    |
+| No   | [Developing for the Cloud](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T06)                                     | Instructor-led | 1 day    |
+| No   | [Design for Deployment, Migration, and Integration](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T03)            | Instructor-led | 1 day    |
+| No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)                         | Instructor-led | 1 day    |
+| No   | [Implement and Manage Application Services](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T02)                    | Instructor-led | 1 day    |
 
 ### Security Committee Training Plan
 
@@ -275,14 +276,16 @@ courses.
 | Free | Title                                                                                                                                  | Delivery       | Duration |
 |------|----------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
 | No   | [Manage Identities](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T05)                                                | Instructor-led | 1 day    |
-|      | [Configure and Manage Virtual Networks ](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T04)                           |                |          |
+| No   | [Configure and Manage Virtual Networks](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-100T04)                            |                |          |
 | No   | [Implement Advanced Virtual Networking](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T03)                            | Instructor-led | 1 day    |
 | No   | [Implement security in Azure development solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-200T04)                | Instructor-led | 1 day    |
 | No   | [Implementing Workloads and Security](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T02)                              | Instructor-led | 1 day    |
 | No   | [Implementing Authentication and Secure Data](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T05)                      | Instructor-led | 1 day    |
 | No   | [Designing for Identity and Security](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T01)                              | Instructor-led | 1 day    |
 | No   | [Microsoft Cloud Workshop: Securing PaaS](https://www.microsoft.com/en-us/learning/course.aspx?cid=40534)                              | Instructor-led | 1 day    |
+| No   | [Azure Security, Privacy, and Compliance](https://www.microsoft.com/en-us/learning/course.aspx?cid=40527)                              | Instructor-led | 3 days   |
 | No   | [Integrating On-Premises Identity Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10993) | Either         | 2 day    |
+| No   | [Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)                | Either         | 5 days   |
 | No   | [Secure Identities](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T04)                                                | Instructor-led | 1 day    |
 
 ### Monitoring Committee Training Plan
@@ -294,11 +297,14 @@ which no training resources are yet identified. In these cases, the online
 references at <http://docs.microsoft.com> may be substituted for traditional
 courses.
 
-| Free | Title                                                                                                                       | Delivery       | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
+| Free | Title                                                                                                                              | Delivery       | Duration |
+|------|------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)                         | Instructor-led | 1 day    |
+| No   | [Integrating On-Premises Core Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10992) | Either         | 5 days   |
+| No   | [Design for Deployment, Migration, and Integration](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T03)            | Instructor-led | 1 day    |
+| No   | [Implement and Manage Application Services](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-101T02)                    | Instructor-led | 1 day    |
+| No   | [Business continuity and disaster recovery](https://www.microsoft.com/en-us/learning/course.aspx?cid=40528)                        | Instructor-led | 1 day    |
+| No   | [Deploying and Configuring Infrastructure](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-300T01)                     | Instructor-led | 1 day    |
 
 ### Architecture Committee Training Plan
 
@@ -309,11 +315,20 @@ which no training resources are yet identified. In these cases, the online
 references at <http://docs.microsoft.com> may be substituted for traditional
 courses.
 
-| Free | Title                                                                                                                       | Delivery       | Duration |
-|------|-----------------------------------------------------------------------------------------------------------------------------|----------------|----------|
-| No   | Microsoft Learn – [Fundamentals](https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/)                          | Self-service   | 1 day    |
-| No   | Microsoft Learn – [Azure Administrator ](https://docs.microsoft.com/en-us/learn/browse/?roles=administrator&products=azure) | Self-service   | 1 day    |
-| No   | MOC Course [10979: Microsoft Azure Fundamentals](https://www.microsoft.com/en-us/learning/course.aspx?cid=10979)            | Instructor-led | 1 day    |
+| Free | Title                                                                                                                                                                                            | Delivery       | Duration |
+|------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------|----------|
+| No   | [Architecting Microsoft Azure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20535)                                                                                         | Either         | 5 days   |
+| No   | [Designing a Data Platform Solution](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T02)                                                                                         | Instructor-led | 1 day    |
+| No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)                                                                                       | Instructor-led | 1 day    |
+| No   | [Designing and Implementing Cloud Data Platform Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=55247)                                                                       | Instructor-led | 3 days   |
+| No   | [Implementing Microsoft Azure Infrastructure Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=20533)                                                                          | Either         | 5 days   |
+| No   | [Integrating On-Premises Core Infrastructure with Microsoft Azure](https://www.microsoft.com/en-us/learning/course.aspx?cid=10992)                                                               | Either         | 5 days   |
+| No   | [Microsoft Azure Big Data Analytics Solutions](https://www.microsoft.com/en-us/learning/course.aspx?cid=552241)                                                                                  | Instructor-led | 2 day    |
+| No   | [Building a Resilient IaaS Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40513) [Containers and DevOps](https://www.microsoft.com/en-us/learning/course.aspx?cid=40501) | Instructor-led | 1 day    |
+| No   | [Optimized Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40520)                                                                                                         | Instructor-led | 1 day    |
+| No   | [Microservices Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40507)                                                                                                     | Instructor-led | 1 day    |
+| No   | [Serverless Architecture](https://www.microsoft.com/en-us/learning/course.aspx?cid=40535)                                                                                                        | Instructor-led | 1 day    |
+| No   | [Designing an Infrastructure Strategy](https://www.microsoft.com/en-us/learning/course.aspx?cid=AZ-301T04)                                                                                       | Instructor-led | 1 day    |
 
 ### Product Catalog Committee Training Plan
 
