@@ -40,6 +40,25 @@ Charter
 
 \<Content needed\>
 
+A CCoE will create its own specific charter that will dictate how it operates in
+specific but in general terms there are a few common hallmarks of a CCoE model:
+
+-   Service Broker Approach
+
+-   Loosely Coupled Architectures
+
+-   Re-use of certified cloud services
+
+-   Use of Cloud-native tooling
+
+-   Cloud Native Controls
+
+-   Zero touch implementations
+
+-   Infrastructure as code
+
+A cloud native operating model
+
 Committee interaction
 ---------------------
 
