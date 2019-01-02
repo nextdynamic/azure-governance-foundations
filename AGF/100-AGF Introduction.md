@@ -18,7 +18,8 @@ Contents:
 
 -   [What is a CoE](#what-is-a-ccoe)
 
--   [Do I need a CoE?](#do-i-need-the-azure-governance-foundations)
+-   [Do I need Azure Governance
+    Foundations?](#do-i-need-the-azure-governance-foundations)
 
 The need for governance
 -----------------------
