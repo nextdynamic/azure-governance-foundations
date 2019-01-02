@@ -18,7 +18,7 @@ Contents:
 
 -   [What is a CoE](#what-is-a-ccoe)
 
--   [Do I need a CoE?](#do-i-need-a-ccoe)
+-   [Do I need a CoE?](#do-i-need-the-agf)
 
 The need for governance
 -----------------------
@@ -138,7 +138,7 @@ services and capabilities that enterprises assemble like building blocks to
 address a wide array of workloads and applications.
 
 History
-=======
+-------
 
 As mentioned in the introduction, enterprise IT departments, while trying to
 ensure that systems are effectively governed and secured, were often seen as
@@ -217,7 +217,7 @@ reduces the value of the cloud to bring speed and agility to the organization.
 The approach works but at the cost of reducing the true potential of the cloud.
 
 A new approach to an old problem
-================================
+--------------------------------
 
 As described above, the perception of IT departments as slow, cumbersome and
 sometimes draconian are not baseless but, in fairness, the reasons that these
@@ -254,7 +254,7 @@ By taking advance of the controls the cloud natively provides we can govern in a
 “cloud first” model with relative ease.
 
 Cloud First
-===========
+-----------
 
 The term “Cloud First” is becoming widely used in the industry and so it is
 worth taking a moment to define it here in the context of AGF.
@@ -325,7 +325,7 @@ those resources in a manner that was consistent with the security, monitoring
 and other governance policies. In fact, in such an environment there would be no
 need for the cloud portal, since all access would be programmatic and secured.
 Cloud portals are entirely dependent on human interaction and are at greatest
-risk of simple mistakes being made.
+risk of human error.
 
 ### Do you need to be “All In”?
 
@@ -335,33 +335,90 @@ I need to be “Cloud First”, do I need to be “All In”?
 Often times when considering the end state of a cloud first model, as described
 above, people are left to wonder if that state of affairs isn’t simply beyond
 their immediate grasp. In many cases, that end state is a bridge too far; but it
-is with limitation this in mind that the AGF was created. Knowing that many
-customers will not reach a one-touch deployment world for some time, if ever,
-the AGF sets customers on the cloud first path, even if they won’t make the full
-journey. Moreover the AGF is designed in a way that will minimize the customer’s
-technical debt if and when they device to take the next step on the cloud first
-journey. Simply put, the AGF and the use of a CCoE will help any customer
-organization “build the house” in a way that does everything possible to
-future-proof them for changes they may want to make at a later date.
+is with limitation this in mind that the AGF was created.
 
-What is a ccoe?
-===============
+Knowing that many customers will not reach a one-touch deployment world for some
+time, if ever, the AGF sets customers on the cloud first path, even if they
+won’t make the full journey. Moreover the AGF is designed in a way that will
+minimize the customer’s technical debt if and when they device to take the next
+step on the cloud first journey. Simply put, the AGF and the use of a CCoE will
+help any customer organization “build the house” in a way that does everything
+possible to future-proof them for changes they may want to make at a later date.
 
-\<Content needed\>
+What is a CCoE?
+---------------
+
+A Cloud Center of Excellence is a group dedicated to maintaining a secure,
+compliant and well-governed cloud. The CCoE is made up of representatives from
+the areas of the business that are affected by the cloud. Each of the members of
+the CCoE are experts in their respective areas both in the on-premise world and
+in the cloud. The CCoE is broken up into committees (or teams) which focus on
+specific areas of the cloud. Typically, these are:
+
+-   Platform governance
+
+-   Security
+
+-   Architecture
+
+-   Monitoring
+
+-   Automation
+
+-   Product Catalog
+
+Each of these committees are focused on their area and they create the policies
+which will ultimately be enforced by the cloud. While the committees control
+their own destiny with respect to their area, they do not operate in a vacuum.
+As the committees create policies, they submit them back to the larger CCoE for
+comments and ratification. In this way, no one group operates without oversight
+and policies that are proposed are reviewed for any potential impact upon other
+groups or the cloud as a whole (this is imperative as policy decision may have
+unintended consequences for other committees).
 
 ![](media/78c3405e436b8a272e2dba10b97f7d05.png)
 
+The CCoE achieves control over the cloud by using cloud-native tools to meet the
+organization’s needs. By building a secure framework they can step back and
+allow business units to consume the cloud without the same obstacles that the
+traditional approach creates.
+
+### Hallmarks of a CCoE
+
+A CCoE will create its own specific charter that will dictate how it operates in
+specific but in general terms there are a few common hallmarks of a CCoE model:
+
+-   Service Broker Approach
+
+-   Loosely Coupled Architectures
+
+-   Re-use of certified cloud services
+
+-   Use of Cloud-native tooling
+
+-   Cloud Native Controls
+
+-   Zero touch implementations
+
+-   Infrastructure as code
+
+-   A cloud native operating model
+
+These hallmarks are detailed in the [Building a Cloud Center of
+Excellence](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/101-Building-a-Cloud-Center-of-Excellence.md)
+guide.
+
 ![](media/b728c00fe4137836a58d7514e266713f.png)
 
-### Do I need a ccoe?
+Do I need the AGF?
+------------------
 
-This CCoE offering is where Partners will help customers setup and
-operationalize a CCoE with deep focus foundational aspects of platform
-enablement. The goal of the offering is to create a secure and well-governed
-Azure environment, ready to accept workloads This offering can be undertaken by
-almost any customer, from those who are just beginning their cloud journey to
-ones who are already deeply invested in cloud but want to modernize their IT
-approach.
+Setting up and operationalizing a CCoE with deep focus foundational aspects of
+platform enablement is not a trivial matter. The goal of the AGF is to help
+customers create a secure and well-governed Azure environment, ready to accept
+workloads The AGF can be undertaken by almost any customer, from those who are
+just beginning their cloud journey to ones who are already deeply invested in
+cloud but want to modernize their IT approach.
 
 While the fullest expression of a CCoE may be an organization that implements a
 zero touch, infrastructure as code environment - not all customers are willing
