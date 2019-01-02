@@ -18,7 +18,7 @@ Contents:
 
 -   [What is a CoE](#what-is-a-ccoe)
 
--   [Do I need a CoE?](#do-i-need-the-agf)
+-   [Do I need a CoE?](#do-i-need-the-azure-governance-foundations)
 
 The need for governance
 -----------------------
@@ -410,8 +410,8 @@ guide.
 
 ![](media/b728c00fe4137836a58d7514e266713f.png)
 
-Do I need the AGF?
-------------------
+Do I need the Azure Governance Foundations?
+-------------------------------------------
 
 Setting up and operationalizing a CCoE with deep focus foundational aspects of
 platform enablement is not a trivial matter. The goal of the AGF is to help
@@ -422,39 +422,57 @@ cloud but want to modernize their IT approach.
 
 While the fullest expression of a CCoE may be an organization that implements a
 zero touch, infrastructure as code environment - not all customers are willing
-nor ready to make the full extent of that journey. This offering is designed to
-formalize the creation and to operationalize a CCoE with a focus on platform
-aspects, where immediate gains can be made in terms of governance, security and
+nor ready to make the full extent of that journey. AGF is designed to formalize
+the creation and to operationalize a CCoE with a focus on platform aspects,
+where immediate gains can be made in terms of governance, security and
 operational efficiency.
 
-The content of this offering is a pre-requisite before the DevOps-focused CCoE
-efforts can begin. An offering focused on CCoE Dev-Ops can be added after this
-one for those customers who would benefit from it. One of the tenants of this
-offering is to create a CCoE in a way that minimized architectural and
-organizational debt for those customers who continue on to take the full
-journey.
+The content of the AGF is a pre-requisite before any DevOps-focused CCoE efforts
+can begin. Guidance focused on CCoE Dev-Ops is expected in the future. One of
+the tenants of this offering is to create a CCoE in a way that minimized
+architectural and organizational debt for those customers who continue on to
+take the full journey.
 
-![](media/5c066e1ea93077708f9a02a92d464623.png)
-
-This model provides a structure for customers to implement, manage, and operate
+This AGF provides a structure for customers to implement, manage, and operate
 their Azure platform. The CCoE uses agile DevOps principles combined with
 cloud-native service management and security controls to help drive business
 innovation, increase agility, and reduce time to value within a secure,
 predictable and flexible services delivery and operations management capability.
 The CCoE provides patterns for modern IT structures, actions and governance.
 
-This offering is meant to provide the coaching and mentorship needed to enable
-the customer’s IT team to realize the value of CCoE operations, as well as
-making IT an integral part of their organization.
+![](media/5c066e1ea93077708f9a02a92d464623.png)
 
-The CCoE will be initially populated by both the Partner and customer resources
-(customer permitting). The Partner will bring recommended practices and
-experience to bear with customers to build the CCoE in order to implement,
-manage, and operate the Azure platform.
+If your organization is looking for an approach that will help them secure
+predictable but flexible cloud, faster adoption of cloud services, reduced time
+to market and a more efficient use of the cloud – the Azure Governance
+Foundation may be a good place to start. The AGF is meant to provide the
+guidance needed to enable the customer’s IT team to realize the value of CCoE
+operations, as well as making IT an integral part of their organization.
+
+### A new state of affairs
+
+This introduction discussed the rise and the allure of Shadow IT and suggests
+some alternate approaches. In closing, imagine the new state of affairs brought
+about by a cloud first approach.
+
+Rather than restricting access to the cloud, organizations can provide more
+access to their business units enabling them to experiment with new technologies
+and bring products to market faster than ever. The IT department becomes a
+partner to the business (rather than an intermediary who acquires equipment) as
+they make using the newest technologies easy *and* secure. This creates a
+virtuous cycle that drives innovation standing as a stark counterpoint to the
+frustrations that drove users to Shadow IT.
+
+Consider this an example of Jevon’s Paradox at work. In simple terms the paradox
+states that technological progress that increases the efficiency with which a
+resource is used tends to increase the rate of consumption of that resource. So
+as an IT department makes the process of acquiring and using new technology more
+efficient (or cheaper in terms of effort or real dollars) the more demand is
+created to use these new services.
 
 ![](media/27867091b9d19cd772c1714e035a03f3.png)
 
-Once the CCoE has grown and matured the need for external guidance is be reduced
-and the customer alone should populate the CCoE. This offering is a hands-on
-approach where the customer achieves cultural change, adopt a new way of working
-and embed use of cloud-native technology and principles.
+As the rate of consumption of new cloud services rises within an organization,
+the benefits that cloud offers becomes fully realized and IT department’s
+transformation from man-in-the-middle acquiring new hardware to a true business
+partner enabling their companies to achieve more.
