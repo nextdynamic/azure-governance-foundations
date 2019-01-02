@@ -12,9 +12,9 @@ Contents:
 
 -   [History](#history)
 
--   A new Approach
+-   [A new Approach](#a-new-approach-to-an-old-problem)
 
--   [Cloud](#cloud-first) First
+-   [Cloud First](#cloud-first)
 
 -   [What is a CoE](#what-is-a-ccoe)
 
