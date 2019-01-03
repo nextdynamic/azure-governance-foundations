@@ -1,23 +1,93 @@
 Building a Cloud Center of Excellence
 =====================================
 
-\<Content needed\>
+Contents:
+---------
+
+-   [Executive sponsorship](#executive-sponsorship)
+
+-   [General approach](#general-approach)
+
+-   [Membership](#membership)
+
+-   [Commitment and expectations](#commitment-and-expectations)
+
+-   [Charter](#charter)
+
+-   [Committee interaction](#committee-interaction)
+
+-   [Azure Policy](#azure-policy)
+
+-   [Training and Education](#training-and-education)
+
+Customizing this approach
+-------------------------
+
+This document describes the formation, approach and interaction of a CCoE. This
+guidance should be thought of as a generic proposal and not a one-size-fits-all
+design. The size of your organization and how it is structured should be taken
+into account when creating your CCoE. Feel free to customize this approach as
+needed. Instead of six committees you may find that breaking up the Security
+Committee into separate groups for Identity and Networking makes more sense in
+your organization - or you may find that the Automation and Product Catalog
+Committees should be merged. These are perfectly acceptable if the approach you
+take produces the desired results. The details listed here is available for
+those organizations looking for a place to start.
 
 Executive sponsorship
 ---------------------
 
-\<Content needed\>
+Before you undertake the AGF or the formation of a CCoE is it imperative that
+you have an executive sponsor. This approach is forward-looking and disruptive
+to the way IT organizations have been run historically. You should expect to
+encounter resistance, either to cloud in general or this approach in particular
+(typically arguing instead for the “Extend the DC” model described in the [AGF
+Introduction](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/100-AGF%20Introduction.md)).
+Ideally your sponsor should be a C-level executive (CIO, CTO, etc.) and one who
+shares the vision of modernizing IT and evolving it from a technology broker to
+a business partner. Again, depending on the size and complexity of your
+organization, this may not be feasible but secure a sponsor with as much power
+and authority as possible. Their endorsement will facilitate the creation of
+these groups and provide a mantel of authority under which they will operate.
 
-Governance approach general formation
--------------------------------------
+Once your sponsor has been identified, they should nominate someone to head the
+CCoE (as they will probably not have the time to do this themselves). This
+person will be charged with the actual creation of the groups, nomination of
+membership and general day-today activities. They will also bring the sponsor in
+when organizational roadblocks occur at least until such a time as the charter,
+direction and endorsement of the CCoE is widely understood within the
+organization.
 
-\<Content needed\>
+General approach 
+-----------------
+
+At its core, the CCoE can be thought of as a parliamentary system with multiple
+assemblies (technically a multicameral governing body) in which each assembly
+(or committee) represents an aspect of the technology transformation: Platform,
+Security, Monitoring, etc. and is responsible for governing that aspect. The
+committees control their own destiny with respect to their areas but require
+consensus on matters that affect other committees for the CCoE as whole. A
+committee brings their proposal to the full CCoE to be discussed and ultimately
+ratified. If during this discussion, it becomes clear that the policy will
+affect other committees, the affected committees should come to an agreement. If
+they cannot, the full CCoE may vote on such matters.
+
+For example, the Platform committee might decide that having a large number of
+Azure subscriptions (one for each application) is desirable. When the Platform
+committee brings that policy to the full CCoE to be discussed, the Security
+committee raises a technical consideration – namely that the current Azure
+limitation for vnet peerings is 100. If the organization will have more than 100
+subscriptions, connectivity between subscriptions will need to be addressed
+differently that they had planned.
+
+In this CCoE model we will call these assemblies “committees”, but they can be
+simply labeled teams, if that is preferred.
 
 Membership
 ----------
 
 The CCoE, as a whole, is composed of a representative of each committee and each
-committee should contain at least one member (but generally not more than five).
+committee should contain at least one member (but generally not more than six).
 Some committees will naturally share memberships where appropriate. For example,
 a member of the Security committee would also be at home as a member of the
 product Catalog committee (since the certification of products in the catalog
@@ -90,10 +160,14 @@ Azure Blueprints
 
 \<Content needed\>
 
-Workloads
----------
+Training and Education
+----------------------
 
-\<Content needed\>
+Please refer to the [Enterprise Learning
+Plan](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/102-Enterprise-Learning-Plan.md)
+for a detailed sample of the courses, workshop and hacks that are available to
+upskill the members of the CCoE. This training document is broken down by
+committee.
 
 Where do I go from here?
 ------------------------
