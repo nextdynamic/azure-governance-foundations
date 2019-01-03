@@ -14,6 +14,8 @@ Contents:
 
 -   [Charter](#charter)
 
+-   [Committees](#committees)
+
 -   [Committee interaction](#committee-interaction)
 
 -   [Azure Policy](#azure-policy)
@@ -23,16 +25,16 @@ Contents:
 Customizing this approach
 -------------------------
 
-This document describes the formation, approach and interaction of a CCoE. This
-guidance should be thought of as a generic proposal and not a one-size-fits-all
-design. The size of your organization and how it is structured should be taken
-into account when creating your CCoE. Feel free to customize this approach as
-needed. Instead of six committees you may find that breaking up the Security
-Committee into separate groups for Identity and Networking makes more sense in
-your organization - or you may find that the Automation and Product Catalog
-Committees should be merged. These are perfectly acceptable if the approach you
-take produces the desired results. The details listed here is available for
-those organizations looking for a place to start.
+This document describes the formation of a CCoE. This guidance should be thought
+of as a generic proposal and not a one-size-fits-all design. The size of your
+organization and how it is structured should be taken into account when creating
+your CCoE. Feel free to customize this approach as needed. Instead of six
+committees you may find that breaking up the Security Committee into separate
+groups for Identity and Networking makes more sense in your organization - or
+you may find that the Automation and Product Catalog Committees should be
+merged. These are perfectly acceptable if the approach you take produces the
+desired results. The details listed here is available for those organizations
+looking for a place to start.
 
 Executive sponsorship
 ---------------------
@@ -134,8 +136,10 @@ resources that can be dedicated to CCoE work is minimal
 
 There should also be at least one project manager (or SCRUM manager) for each
 committee as well as the CCoE. The same PM can manage the responsibility across
-multiple committees if time/resourcing permits. In larger organizations the
-creation of a Project Management Committee would not be out of place.
+multiple committees if time/resourcing permits.
+
+NOTE: In larger organizations the creation of a Project Management Committee
+would not be out of place.
 
 In a smaller organization with resource constraints the CCoE might be as small
 as six people (four committees of one plus the PM and a chairperson. A CCoE
@@ -149,8 +153,6 @@ Commitment and expectations
 
 Charter
 -------
-
-\<Content needed\>
 
 A CCoE will create its own specific charter that will dictate how it operates in
 specific but in general terms there are a few common hallmarks of a CCoE model:
@@ -169,7 +171,40 @@ specific but in general terms there are a few common hallmarks of a CCoE model:
 
 -   Infrastructure as code
 
-A cloud native operating model
+-   A cloud native operating model
+
+Committees
+----------
+
+Below is a list of the committees generally found in a CCoE. You can choose to
+consolidate or split some of these as need dictate in your organization. Take
+care not to reduce the number of committees below three or increase them to more
+than nine. Too few or too many committees are likely to cause problems and this
+approach may not be effective.
+
+### Platform 
+
+\<Content needed\>
+
+### Security
+
+\<Content needed\>
+
+### Monitoring
+
+\<Content needed\>
+
+### Product Catalog
+
+\<Content needed\>
+
+### Automation
+
+\<Content needed\>
+
+### DevOps
+
+\<Content needed\>
 
 Committee interaction
 ---------------------
