@@ -74,7 +74,7 @@ they cannot, the full CCoE may vote on such matters.
 
 Below are a few examples to help clarify this approach:
 
-#### Example 1: 
+#### Example 1:
 
 The Monitoring committee submits a policy where every new container that is
 deployed must have logging enabled and be configured to send those logs to a
@@ -93,7 +93,7 @@ Monitoring Committee. Nonetheless it is important to submit the policy for
 ratification so that the CCoE understands what the policy does and has a chance
 to ask questions about it.
 
-#### Example 2: 
+#### Example 2:
 
 The Platform committee decides that having a large number of Azure subscriptions
 (one for each application) is desirable. When the Platform committee brings that
@@ -120,8 +120,8 @@ Membership
 ----------
 
 The CCoE, as a whole, is composed of the person nominated by the executive
-sponsor (Mgmt Authority in the diagram below), a SCRUM master or program manager
-and a representative from each committee.
+sponsor (Mgmt Authority in the diagram below) acting as chair, a SCRUM master or
+program manager and a representative from each committee.
 
 Each committee must contain at least one member (but generally not more than
 six). Some committees can share memberships where appropriate. For example, a
@@ -136,6 +136,11 @@ There should also be at least one project manager (or SCRUM manager) for each
 committee as well as the CCoE. The same PM can manage the responsibility across
 multiple committees if time/resourcing permits. In larger organizations the
 creation of a Project Management Committee would not be out of place.
+
+In a smaller organization with resource constraints the CCoE might be as small
+as six people (four committees of one plus the PM and a chairperson. A CCoE
+smaller than this is discouraged as it is likely too daunting and demanding for
+those resources.
 
 Commitment and expectations
 ---------------------------
