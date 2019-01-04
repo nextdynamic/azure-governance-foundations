@@ -149,29 +149,58 @@ those resources.
 Commitment and expectations
 ---------------------------
 
-\<Content needed\>
+During the initial phases of this approach, expect members to have a full-time
+or near-full-time commitment. Between the training needed, research,
+experimentation and proposals a great deal of time needs to be invested by
+members.
+
+If all members of the CCoE were already considered experts in their respective
+areas of cloud, the AGF might be completed in as little as one month. However,
+since at least some training and ramp up is typically required a more realistic
+timeframe is 90 days.
+
+During this time, the CCoE should meet at least weekly with the intervening time
+dedicated to the work of individual committees which may be meeting daily.
+
+After the foundations haven been completed and the platform is ready to accept
+workloads (at the completion of the work described in the AGF), the time
+commitment may be reduced. The amount of time the CCoE needs to invest will then
+be a function of the number of workloads expected and how close the platform
+gets to achieving a ‘steady state’.
+
+In smaller organizations in a steady state, committee membership may drop to a
+single person with CCoE meeting happening as infrequently as monthly. In large
+organizations membership generally continues to be a full-time commitment,
+although the size of the committees may shrink.
 
 Charter
 -------
 
-A CCoE will create its own specific charter that will dictate how it operates in
-specific but in general terms there are a few common hallmarks of a CCoE model:
+A CCoE will create its own specific charter that will dictate how it operate.
+You can refer to [Robert’s Rules of Order](http://robertsrules.com/) if you need
+guidance on specific aspects of parliamentary procedure, meeting rules and the
+like. In addition to any operational details, the CCoE should craft a statement
+of purpose, outline goals and commit to some principals. These details are
+naturally dependent on the organization’s perspective and goals but in general
+terms there are a few common hallmarks of a CCoE model:
 
--   Service Broker Approach
+-   A cloud native operating model
 
--   Loosely Coupled Architectures
-
--   Re-use of certified cloud services
+-   Infrastructure as code
 
 -   Use of Cloud-native tooling
 
 -   Cloud Native Controls
 
+-   Loosely Coupled Architectures
+
+-   Re-use of certified cloud services
+
 -   Zero touch implementations
 
--   Infrastructure as code
+-   Service Broker Approach
 
--   A cloud native operating model
+Feel free to use as few or as many of these examples as you wish.
 
 Committees
 ----------
@@ -182,7 +211,7 @@ care not to reduce the number of committees below three or increase them to more
 than nine. Too few or too many committees are likely to cause problems and this
 approach may not be effective.
 
-### Platform 
+### Platform
 
 \<Content needed\>
 
@@ -239,21 +268,63 @@ Please refer to the [Enterprise Learning
 Plan](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/102-Enterprise-Learning-Plan.md)
 for a detailed sample of the courses, workshop and hacks that are available to
 upskill the members of the CCoE. This training document is broken down by
-committee.
+committee for your convenience.
 
 Where do I go from here?
 ------------------------
 
-Governance is crucial to the success of Azure. This article targets the
-technical implementation of an enterprise scaffold but only touches on the
-broader process and relationships between the components. Policy governance
-flows from the top down and is determined by what the business wants to achieve.
-Naturally, the creation of a governance model for Azure includes representatives
-from IT, but more importantly it should have strong representation from business
-group leaders, and security and risk management. In the end, an enterprise
-scaffold is about mitigating business risk to facilitate an organization's
-mission and objectives
+As you begin on the journey of governance there are a few topics which need to
+be address before any others. These decisions made in these areas will dictate
+much of what will follow and so you are urged to consider addressing these
+topics as early as possible after your CCoE is formed:
 
-Now that you have learned about subscription governance, it's time to see these
-recommendations in practice. See [Examples of implementing Azure subscription
-governance](https://github.com/rdendtler/architecture-center/blob/eca/scaffold-v2/docs/cloud-adoption/appendix/azure-scaffold-examples.md).
+### Identity
+
+-   Will your organization use (or continue to use) Active Directory? or another
+    identity provider like Ping, or Okta?
+
+-   If you have on-premise identity solution today will you federate it with
+    AAD? If so will you sync password hashes?
+
+-   Will you use Single Sign-on?
+
+>   Give this topic its due respect. Remember: Identity is the new security
+>   perimeter.
+
+### Subscription Model
+
+-   How will your organization structure its subscriptions in Azure?
+
+-   Will you try and map to an existing business structure for subsidiaries?
+
+-   How does the accounting team expect or need to see spending information?
+
+-   Will you track spending by team/department/business unit? Will you implement
+    charge back?
+
+-   Will you have lots of subscriptions or relatively few?
+
+-   Will you use Azure Management Groups to structure your subscriptions?
+
+1.  Cloud connectivity
+
+-   How will your organization connect to Azure?
+
+-   Will you use ExpressRoute? ExpressRoute requires third-party connectivity
+    providers and often considerable lead time.
+
+-   Will there be DMZs?
+
+-   What IP ranges should be used?
+
+-   Will you use a hub and spoke model?
+
+-   Will you implement a shared-services approach?
+
+The items contained above are not comprehensive but are illustrative of the
+things you need to address as early as possible in your cloud journey. While
+they can be changed later, such changes can be complicated and costs. It is best
+to have give these topics the time and attention they demand early on, planning
+for the future to minimize your risk or architectural debt. Further, these
+topics will generally get the CCoE started in its workflow and open the door to
+a series of next steps the committees can tackle.
