@@ -412,8 +412,9 @@ topics as early as possible after your CCoE is formed:
 
 The items contained above are not comprehensive but are illustrative of the
 things you need to address as early as possible in your cloud journey. While
-they can be changed later, such changes can be complicated and costs. It is best
-to have give these topics the time and attention they demand early on, planning
-for the future to minimize your risk or architectural debt. Further, these
-topics will generally get the CCoE started in its workflow and open the door to
-a series of next steps the committees can tackle.
+they can be changed later, such changes can be complicated and costly. It is
+best to have given these topics the time and attention they demand early on.
+Doing so and planning for future growth will minimize your risk or potential for
+architectural debt. Further, these topics will do well in getting the CCoE
+started in its workflow and open the door to a series of next steps and topics
+the committees can tackle.
