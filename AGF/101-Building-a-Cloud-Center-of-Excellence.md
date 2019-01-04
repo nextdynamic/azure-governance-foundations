@@ -306,7 +306,7 @@ topics as early as possible after your CCoE is formed:
 
 -   Will you use Azure Management Groups to structure your subscriptions?
 
-1.  Cloud connectivity
+### Cloud connectivity
 
 -   How will your organization connect to Azure?
 
