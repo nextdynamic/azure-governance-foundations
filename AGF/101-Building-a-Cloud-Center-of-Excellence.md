@@ -227,6 +227,9 @@ approach may not be effective.
 
 -   Create governance policies
 
+Read more about the [Platform
+committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/200-Platform-Committee.md)
+
 ### Security
 
 -   Owns sign-on strategy
@@ -247,6 +250,9 @@ approach may not be effective.
 
 -   Creates security policies, JIT access and adaptive application controls
 
+Read more about the [Security
+committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/201-Security-Committee.md)
+
 ### Monitoring
 
 -   Collects and analyzes telemetry on the activities, performance metrics,
@@ -257,6 +263,9 @@ approach may not be effective.
 -   Selects monitoring tools
 
 -   Creates integrated to existing SIEMs if needed
+
+Read more about the [Monitoring
+committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/202-Monitoring-Committee.md)
 
 ### Architecture
 
@@ -269,6 +278,9 @@ approach may not be effective.
 
 -   Creates blueprints for certified products (in Product Catalog)
 
+Read more about the [Architecture
+committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/203-Architecture-Committee.md)
+
 ### Product Catalog
 
 -   Certifies Azure products for use in customer’s catalog
@@ -276,6 +288,9 @@ approach may not be effective.
 -   Defines and owns product catalog
 
 -   Build and maintain product deployment packages (ARM)
+
+Read more about the [Product Catalog
+committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/204-Product-Catalog-Committee.md)
 
 ### Automation (or DevOps)
 
@@ -288,6 +303,9 @@ approach may not be effective.
     Catalog
 
 -   Defines CI/CD code repository
+
+Read more about the [Automation
+committee.](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/205-Automation-Committee.md)
 
 Note: Depending on the size, complexity and structure of the customer, there may
 not be a need for a separate Monitoring, Automation or Product Catalog
