@@ -363,7 +363,7 @@ Where do I go from here?
 ------------------------
 
 As you begin on the journey of governance there are a few topics which need to
-be address before any others. These decisions made in these areas will dictate
+be address before any others. The decisions made in these areas will dictate
 much of what will follow and so you are urged to consider addressing these
 topics as early as possible after your CCoE is formed:
 
