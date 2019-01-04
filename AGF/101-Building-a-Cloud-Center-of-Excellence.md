@@ -208,32 +208,91 @@ Committees
 Below is a list of the committees generally found in a CCoE. You can choose to
 consolidate or split some of these as need dictate in your organization. Take
 care not to reduce the number of committees below three or increase them to more
-than nine. Too few or too many committees are likely to cause problems and this
+than nine. Too few or too many committees are likely to cause issues and this
 approach may not be effective.
 
 ### Platform
 
-\<Content needed\>
+-   Build and maintains the Azure platform (within scope of platform topics)
+
+-   Provides subscription governance and hierarchy
+
+-   Defines naming standards and resource tagging requirements
+
+-   Set billing requirements for subscription models
+
+-   Implement Azure Cost Management
+
+-   Create Azure Budgets and Actions Groups
+
+-   Create governance policies
 
 ### Security
 
-\<Content needed\>
+-   Owns sign-on strategy
+
+-   Defines identity provider(s)
+
+-   Defines RBAC controls
+
+-   Define networking architecture for cloud
+
+-   Set policy and guidance for vnets, UDRs, peering, endpoints and NSGs
+
+-   Create connectivity from on-premises to cloud using VPNs or ExpressRoute
+
+-   Owns development of security frameworks, controls, and procedures
+
+-   Provides security and risk controls for workloads
+
+-   Creates security policies, JIT access and adaptive application controls
 
 ### Monitoring
 
-\<Content needed\>
+-   Collects and analyzes telemetry on the activities, performance metrics,
+    health and availability of the services and tooling
+
+-   Provides deep application and infrastructure monitoring.
+
+-   Selects monitoring tools
+
+-   Creates integrated to existing SIEMs if needed
+
+### Architecture
+
+-   Sets and implements policy regarding Business Continuity
+
+-   Sets and implements policy regarding Backup and Recovery
+
+-   Provides architectural guidance/references for certified products (in
+    Product Catalog)
+
+-   Creates blueprints for certified products (in Product Catalog)
 
 ### Product Catalog
 
-\<Content needed\>
+-   Certifies Azure products for use in customer’s catalog
 
-### Automation
+-   Defines and owns product catalog
 
-\<Content needed\>
+-   Build and maintain product deployment packages (ARM)
 
-### DevOps
+### Automation (or DevOps)
 
-\<Content needed\>
+-   Sets automation strategy and policy
+
+-   Defines Continuous Integration, Continuous Delivery (CI/CD) strategy and
+    pipeline
+
+-   Certifies automation tools as fit for use for products in the Product
+    Catalog
+
+-   Defines CI/CD code repository
+
+Note: Depending on the size, complexity and structure of the customer, there may
+not be a need for a separate Monitoring, Automation or Product Catalog
+committee. In such cases one or more of these committees may be absorbed by
+another committee.
 
 Committee interaction
 ---------------------
@@ -255,11 +314,41 @@ Policies or Azure Blueprints.
 Azure Policy
 ------------
 
-\<Content needed\>
+It is worth mentioning at this point that the term policy is used a great deal
+with the AGF and that it might mean one of two things. When the term “policy” is
+used, it is referring to the traditional definition “a deliberate system of
+principles to guide decisions and achieve rational outcomes”. The is obviously
+fundamental to the AGF model in general. But we need to differentiate that from
+“Azure Policy” (or Policy) which is a feature in Azure that provides active
+controls and governance at scale for your Azure resources. Azure Policies help
+you enforce policies and audit compliance as well as monitoring your compliance
+state continuously.
+
+Azure Policy is a relatively new feature in Azure but an incredibly powerful
+one. It allows organizations to enforce different rules and effects over your
+resources, so those resources stay compliant with your corporate standards and
+service level agreements.
+
+To clarify, the Monitoring Committee might draft a policy for the required
+retention for diagnostics logs for submission to the CCoE. Once approved, (and
+as this policy does not affect other committees, it should be approved) the
+Monitoring committee will translate that policy into an Azure Policy and enable
+that Policy within the organizations Azure subscriptions.
+
+Azure Policies are created using a Policy definition, which is a JSON document
+that describes the conditions, category and effects of the Policy. The Policy
+definition is applied to a given scope within Azure, either a management group,
+subscription or resource group.
 
 ![](media/2773ac3577d35093ea3b357c344461ce.png)
 
-![](media/488d7638daba5bfd40c804b503e3989b.png)
+While there are currently no specific training courses available, training in
+Azure Policy is of paramount importance to the members of committees since it is
+the mechanism for turning the abstract policy into a literal enforcement
+mechanism.
+
+Until a course is created for this content, please refer to the [Azure Policy
+Documentation](https://docs.microsoft.com/en-us/azure/governance/policy/).
 
 Training and Education
 ----------------------
