@@ -25,7 +25,7 @@ Introduction](https://github.com/gosson/azure-governance-foundations/blob/master
 >   This plan can be customized for your organization and should align to any
 >   skill gaps identified by committee members.
 
-[200-Platform-Governance-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/200-Platform-Governance-Committee.md)
+[200-Platform-Committee](https://github.com/gosson/azure-governance-foundations/blob/master/AGF/200-Platform-Committee.md)
 
 >   Describes the roles and responsibilities of the Platform Governance
 >   Committee. It defines some of the technical areas of responsibility along
