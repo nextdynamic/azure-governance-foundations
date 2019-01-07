@@ -1,6 +1,10 @@
 Monitoring
 ==========
 
+### This document is still under development. 
+
+### Please check back later.
+
 Monitor and alerts
 ------------------
 
@@ -26,6 +30,8 @@ monitoring capabilities of Azure resources through the services outlined in the
 diagram below.
 
 ![monitoring](media/c35e3a4bafc3e5998b5b340c1d439179.png)
+
+monitoring
 
 monitoring
 
