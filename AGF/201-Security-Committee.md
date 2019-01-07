@@ -1,5 +1,9 @@
-Security Comittee
-=================
+Security Committee
+==================
+
+### This document is still under development. 
+
+### Please check back later.
 
 Identity and access management
 ------------------------------
@@ -23,6 +27,8 @@ tool](https://github.com/rdendtler/architecture-center/blob/eca/scaffold-v2/azur
 on-premises.
 
 ![arch.png](media/1d1b7f5ef50d3d2961e145f487dfd1fa.png)
+
+arch.png
 
 arch.png
 
@@ -162,6 +168,8 @@ helping accomplish secure dev ops with these 6 focus areas:
 -   Cloud Risk Governance
 
 ![Azure dev ops Toolkit](media/e8852680f29a50d7415bf3b6a720cfc9.png)
+
+Azure dev ops Toolkit
 
 Azure dev ops Toolkit
 
