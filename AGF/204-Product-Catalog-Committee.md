@@ -1,6 +1,6 @@
-Product Catalog Comittee
-========================
+Product Catalog Committee
+=========================
 
-### This document is still under development. 
+### This document is still under development.
 
 ### Please check back later.
