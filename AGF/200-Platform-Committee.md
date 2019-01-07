@@ -1,5 +1,9 @@
-Platform Governance Comittee
-============================
+Platform Governance Committee
+=============================
+
+### This document is still under development. 
+
+### Please check back later.
 
 Azure enterprise scaffold: Prescriptive subscription governance
 ===============================================================
@@ -31,6 +35,8 @@ enterprise scaffold
 
 enterprise scaffold
 
+enterprise scaffold
+
 Define your hierarchy
 ---------------------
 
@@ -42,6 +48,8 @@ can further subdivide the environment into departments, accounts, and finally,
 subscriptions and resource groups to match your organization's structure.
 
 ![hierarchy](media/f47abf6583436db993c2fc60b41e1aee.png)
+
+hierarchy
 
 hierarchy
 
